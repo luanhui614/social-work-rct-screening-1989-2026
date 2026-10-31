@@ -1,0 +1,31 @@
+{
+  "extracted_on": "2026-10-31",
+  "sources": [
+    {
+      "source_filename": "classification_writeup_Brian_original_received_2026-10-08.html",
+      "sha256": "ad32560804c7b5e828cc1ea518fceba0c810f7bbc25276b29e96195c6fedf6ac",
+      "source_role": "Brian classification write-up, sections 3, 4, 7 and 12; embedded stats JSON",
+      "full_source_redistributed": false
+    },
+    {
+      "source_filename": "START_HERE.html",
+      "sha256": "aaded5c127ad297b16958faf1ebc93dd71ae0498a4d721228ab2ed19020e6c97",
+      "source_role": "Original reviewer instructions, sections 3–10",
+      "full_source_redistributed": false
+    },
+    {
+      "source_filename": "reviewer_instructions.txt",
+      "sha256": "aacf4f982b71542cc5d4fb049aec130b611dd8a9e68027ebcbf8d0d233ca5abb",
+      "source_role": "Original review-package delivery instructions",
+      "full_source_redistributed": false
+    },
+    {
+      "source_filename": "README.txt",
+      "sha256": "bb3a7d80a5b146eab71fb72f8414c4cc03d623c3a84e1d8f9b6a0da6281d7905",
+      "source_role": "Original classification export field definitions",
+      "full_source_redistributed": false
+    }
+  ],
+  "extracts_are": "Study methods and aggregate design metadata; not raw abstracts or original manuscript",
+  "source_report_model_names_retained_verbatim": true
+}

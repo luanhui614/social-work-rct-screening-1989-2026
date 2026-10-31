@@ -1,0 +1,127 @@
+{
+  "swrd": {
+    "generated": "2026-09-05 09:35 UTC",
+    "corpus_n": 65290,
+    "seed": 20260905,
+    "boundary_threshold": 0.02,
+    "frames": {
+      "disagree": 71,
+      "confirmed": 385,
+      "boundary": 392,
+      "keyword": 435,
+      "double_negative": 64834
+    },
+    "samples": {
+      "disagree": 71,
+      "confirmed": 385,
+      "boundary": 150,
+      "keyword": 150
+    },
+    "models": {
+      "m27": "Qwen3.8 27B",
+      "m125": "Qwen3.8-Flash-Next 125B"
+    },
+    "keyword_regex": "\\b(random(?:ly)?[- ](?:assign|allocat)\\w*|randomi[sz](?:ed|ation)|RCT|random[- ]assignment|random[- ]allocation)\\b",
+    "overlap_boundary_keyword": 8,
+    "frame_overlap": 51,
+    "unique": 748,
+    "keyword_frame_labels": [
+      [
+        "OTHER>OTHER",
+        144
+      ],
+      [
+        "REVIEW>REVIEW",
+        124
+      ],
+      [
+        "SECONDARY>SECONDARY",
+        97
+      ],
+      [
+        "QUASI>QUASI",
+        31
+      ],
+      [
+        "OTHER>REVIEW",
+        16
+      ],
+      [
+        "PROTOCOL>PROTOCOL",
+        7
+      ],
+      [
+        "OTHER>PROTOCOL",
+        3
+      ],
+      [
+        "SECONDARY>OTHER",
+        3
+      ]
+    ]
+  },
+  "sswr": {
+    "generated": "2026-09-05 20:44 UTC",
+    "corpus_n": 23793,
+    "seed": 20260905,
+    "boundary_threshold": 0.02,
+    "frames": {
+      "disagree": 55,
+      "confirmed": 531,
+      "boundary": 276,
+      "keyword": 1015,
+      "double_negative": 23207
+    },
+    "samples": {
+      "disagree": 55,
+      "confirmed": 531,
+      "boundary": 150,
+      "keyword": 150
+    },
+    "models": {
+      "m27": "Qwen3.8 27B",
+      "m125": "Qwen3.8-Flash-Next 125B"
+    },
+    "keyword_regex": "\\b(random(?:ly)?[- ](?:assign|allocat)\\w*|randomi[sz](?:ed|ation)|RCT|random[- ]assignment|random[- ]allocation)\\b",
+    "corpus": "sswr",
+    "corpus_label": "SSWR conference abstracts",
+    "zh": 586,
+    "overlap_boundary_keyword": 12,
+    "frame_overlap": 131,
+    "unique": 874,
+    "keyword_frame_labels": [
+      [
+        "SECONDARY>SECONDARY",
+        439
+      ],
+      [
+        "REVIEW>REVIEW",
+        213
+      ],
+      [
+        "OTHER>OTHER",
+        212
+      ],
+      [
+        "QUASI>QUASI",
+        75
+      ],
+      [
+        "SECONDARY>OTHER",
+        17
+      ],
+      [
+        "PROTOCOL>PROTOCOL",
+        16
+      ],
+      [
+        "OTHER>SECONDARY",
+        14
+      ],
+      [
+        "PROTOCOL>OTHER",
+        13
+      ]
+    ]
+  }
+}

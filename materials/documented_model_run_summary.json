@@ -1,0 +1,38 @@
+{
+  "swrd": {
+    "m27": {
+      "conf_mean": 0.9702542182876398,
+      "conf_median": 0.998351,
+      "latency_mean": 2.369590810231276,
+      "latency_median": 2.295,
+      "hours": 42.97516222222218,
+      "wall_hours": 10.809444444444445
+    },
+    "m125": {
+      "conf_mean": 0.9512759929238781,
+      "conf_median": 0.987405,
+      "latency_mean": 4.905407443712667,
+      "latency_median": 4.891,
+      "hours": 88.96501444444439,
+      "wall_hours": 11.279722222222222
+    }
+  },
+  "sswr": {
+    "m27": {
+      "conf_mean": 0.9625991709326271,
+      "conf_median": 0.998874,
+      "latency_mean": 6.256234312612954,
+      "latency_median": 5.617,
+      "hours": 41.348495277778,
+      "wall_hours": 10.410277777777777
+    },
+    "m125": {
+      "conf_mean": 0.9430146138780313,
+      "conf_median": 0.986568,
+      "latency_mean": 8.39020905308284,
+      "latency_median": 8.6,
+      "hours": 55.45228999999996,
+      "wall_hours": 7.1130555555555555
+    }
+  }
+}

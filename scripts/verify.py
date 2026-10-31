@@ -3,6 +3,7 @@
 import json
 import hashlib
 import math
+import re
 import sys
 from collections import Counter
 from pathlib import Path
@@ -48,6 +49,20 @@ def main():
         assert 'archive' not in [x.casefold() for x in p.relative_to(ROOT).parts]
         assert p.suffix not in {'.docx','.xlsx','.zip','.bundle','.log'}
         assert p.stat().st_size<100*1024*1024
+    materials=json.loads((ROOT/'materials/initial_screening_prompt_v2.json').read_text())
+    prompt_blocks=re.findall(r'```text\n(.*?)\n```',(ROOT/'docs/MODEL_PROMPT_v2.md').read_text(),re.S)
+    assert prompt_blocks==[materials['system'],materials['user_template']]
+    design=json.loads((ROOT/'materials/original_review_design.json').read_text())
+    for c,total,overlap in [('swrd',748,8),('sswr',874,12)]:
+        x=design[c];assert x['unique']==total and x['overlap_boundary_keyword']==overlap
+        assert sum(x['samples'].values())-overlap==total
+        assert x['seed']==20260905 and x['boundary_threshold']==0.02
+    for p in tracked_files:
+        if p.suffix!='.md':continue
+        prose=re.sub(r'```.*?```','',p.read_text(),flags=re.S)
+        for target in re.findall(r'!?\[[^\]]*\]\(([^)]+)\)',prose):
+            if target.startswith(('http:','https:','#')):continue
+            assert (p.parent/target.split('#')[0]).exists(),(p,target)
     manifest=ROOT/'MANIFEST.sha256'
     if manifest.exists():
         for line in manifest.read_text().splitlines():

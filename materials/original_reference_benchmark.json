@@ -1,0 +1,415 @@
+{
+  "swrd": {
+    "n": 609,
+    "rct": 206,
+    "labels": {
+      "INDIVIDUAL": 179,
+      "OTHER": 265,
+      "SECONDARY": 46,
+      "QUASI": 68,
+      "CLUSTER": 27,
+      "PROTOCOL": 5,
+      "REVIEW": 19
+    },
+    "provenance": {
+      "read_full": 66,
+      "agent_double_coded": 536,
+      "adjudicated_by_me": 7
+    },
+    "m27": {
+      "n": 609,
+      "exact": 567,
+      "rct_ok": 589,
+      "rct_ci": [
+        0.9498198848901614,
+        0.9786418905506703
+      ],
+      "tp": 204,
+      "fp": 18,
+      "fn": 2,
+      "precision": 0.918918918918919,
+      "recall": 0.9902912621359223,
+      "f1": 0.9532710280373832,
+      "confusion": {
+        "INDIVIDUAL": {
+          "INDIVIDUAL": 175,
+          "CLUSTER": 2,
+          "QUASI": 1,
+          "SECONDARY": 1,
+          "PROTOCOL": 0,
+          "REVIEW": 0,
+          "OTHER": 0
+        },
+        "CLUSTER": {
+          "INDIVIDUAL": 0,
+          "CLUSTER": 27,
+          "QUASI": 0,
+          "SECONDARY": 0,
+          "PROTOCOL": 0,
+          "REVIEW": 0,
+          "OTHER": 0
+        },
+        "QUASI": {
+          "INDIVIDUAL": 3,
+          "CLUSTER": 1,
+          "QUASI": 55,
+          "SECONDARY": 0,
+          "PROTOCOL": 2,
+          "REVIEW": 1,
+          "OTHER": 6
+        },
+        "SECONDARY": {
+          "INDIVIDUAL": 3,
+          "CLUSTER": 0,
+          "QUASI": 0,
+          "SECONDARY": 41,
+          "PROTOCOL": 0,
+          "REVIEW": 0,
+          "OTHER": 2
+        },
+        "PROTOCOL": {
+          "INDIVIDUAL": 1,
+          "CLUSTER": 0,
+          "QUASI": 0,
+          "SECONDARY": 0,
+          "PROTOCOL": 4,
+          "REVIEW": 0,
+          "OTHER": 0
+        },
+        "REVIEW": {
+          "INDIVIDUAL": 0,
+          "CLUSTER": 0,
+          "QUASI": 0,
+          "SECONDARY": 0,
+          "PROTOCOL": 0,
+          "REVIEW": 19,
+          "OTHER": 0
+        },
+        "OTHER": {
+          "INDIVIDUAL": 10,
+          "CLUSTER": 0,
+          "QUASI": 1,
+          "SECONDARY": 7,
+          "PROTOCOL": 1,
+          "REVIEW": 0,
+          "OTHER": 246
+        }
+      },
+      "tiers": {
+        "read_full": {
+          "n": 66,
+          "exact": 60,
+          "rct_ok": 62
+        },
+        "agent_double": {
+          "n": 543,
+          "exact": 507,
+          "rct_ok": 527
+        }
+      }
+    },
+    "m125": {
+      "n": 609,
+      "exact": 566,
+      "rct_ok": 589,
+      "rct_ci": [
+        0.9498198848901614,
+        0.9786418905506703
+      ],
+      "tp": 199,
+      "fp": 13,
+      "fn": 7,
+      "precision": 0.9386792452830188,
+      "recall": 0.9660194174757282,
+      "f1": 0.9521531100478469,
+      "confusion": {
+        "INDIVIDUAL": {
+          "INDIVIDUAL": 170,
+          "CLUSTER": 3,
+          "QUASI": 5,
+          "SECONDARY": 1,
+          "PROTOCOL": 0,
+          "REVIEW": 0,
+          "OTHER": 0
+        },
+        "CLUSTER": {
+          "INDIVIDUAL": 0,
+          "CLUSTER": 26,
+          "QUASI": 0,
+          "SECONDARY": 1,
+          "PROTOCOL": 0,
+          "REVIEW": 0,
+          "OTHER": 0
+        },
+        "QUASI": {
+          "INDIVIDUAL": 0,
+          "CLUSTER": 1,
+          "QUASI": 62,
+          "SECONDARY": 0,
+          "PROTOCOL": 0,
+          "REVIEW": 1,
+          "OTHER": 4
+        },
+        "SECONDARY": {
+          "INDIVIDUAL": 3,
+          "CLUSTER": 0,
+          "QUASI": 0,
+          "SECONDARY": 40,
+          "PROTOCOL": 0,
+          "REVIEW": 0,
+          "OTHER": 3
+        },
+        "PROTOCOL": {
+          "INDIVIDUAL": 1,
+          "CLUSTER": 0,
+          "QUASI": 0,
+          "SECONDARY": 0,
+          "PROTOCOL": 4,
+          "REVIEW": 0,
+          "OTHER": 0
+        },
+        "REVIEW": {
+          "INDIVIDUAL": 0,
+          "CLUSTER": 0,
+          "QUASI": 0,
+          "SECONDARY": 0,
+          "PROTOCOL": 0,
+          "REVIEW": 19,
+          "OTHER": 0
+        },
+        "OTHER": {
+          "INDIVIDUAL": 8,
+          "CLUSTER": 0,
+          "QUASI": 2,
+          "SECONDARY": 6,
+          "PROTOCOL": 0,
+          "REVIEW": 4,
+          "OTHER": 245
+        }
+      },
+      "tiers": {
+        "read_full": {
+          "n": 66,
+          "exact": 59,
+          "rct_ok": 60
+        },
+        "agent_double": {
+          "n": 543,
+          "exact": 507,
+          "rct_ok": 529
+        }
+      }
+    },
+    "rules": {
+      "intersection_ok": 588,
+      "union_ok": 590,
+      "n": 609
+    }
+  },
+  "sswr": {
+    "n": 300,
+    "rct": 84,
+    "labels": {
+      "OTHER": 102,
+      "PROTOCOL": 7,
+      "SECONDARY": 64,
+      "INDIVIDUAL": 64,
+      "QUASI": 32,
+      "CLUSTER": 20,
+      "REVIEW": 11
+    },
+    "provenance": {
+      "agent_double_coded": 288,
+      "adjudicated_by_me": 12
+    },
+    "m27": {
+      "n": 300,
+      "exact": 269,
+      "rct_ok": 291,
+      "rct_ci": [
+        0.943976849008093,
+        0.9841383267940355
+      ],
+      "tp": 82,
+      "fp": 7,
+      "fn": 2,
+      "precision": 0.9213483146067416,
+      "recall": 0.9761904761904762,
+      "f1": 0.9479768786127167,
+      "confusion": {
+        "INDIVIDUAL": {
+          "INDIVIDUAL": 61,
+          "CLUSTER": 1,
+          "QUASI": 0,
+          "SECONDARY": 1,
+          "PROTOCOL": 1,
+          "REVIEW": 0,
+          "OTHER": 0
+        },
+        "CLUSTER": {
+          "INDIVIDUAL": 2,
+          "CLUSTER": 18,
+          "QUASI": 0,
+          "SECONDARY": 0,
+          "PROTOCOL": 0,
+          "REVIEW": 0,
+          "OTHER": 0
+        },
+        "QUASI": {
+          "INDIVIDUAL": 1,
+          "CLUSTER": 1,
+          "QUASI": 23,
+          "SECONDARY": 0,
+          "PROTOCOL": 1,
+          "REVIEW": 0,
+          "OTHER": 6
+        },
+        "SECONDARY": {
+          "INDIVIDUAL": 4,
+          "CLUSTER": 0,
+          "QUASI": 1,
+          "SECONDARY": 56,
+          "PROTOCOL": 0,
+          "REVIEW": 0,
+          "OTHER": 3
+        },
+        "PROTOCOL": {
+          "INDIVIDUAL": 1,
+          "CLUSTER": 0,
+          "QUASI": 0,
+          "SECONDARY": 0,
+          "PROTOCOL": 6,
+          "REVIEW": 0,
+          "OTHER": 0
+        },
+        "REVIEW": {
+          "INDIVIDUAL": 0,
+          "CLUSTER": 0,
+          "QUASI": 0,
+          "SECONDARY": 0,
+          "PROTOCOL": 0,
+          "REVIEW": 11,
+          "OTHER": 0
+        },
+        "OTHER": {
+          "INDIVIDUAL": 0,
+          "CLUSTER": 0,
+          "QUASI": 2,
+          "SECONDARY": 4,
+          "PROTOCOL": 2,
+          "REVIEW": 0,
+          "OTHER": 94
+        }
+      },
+      "tiers": {
+        "read_full": {
+          "n": 0,
+          "exact": 0,
+          "rct_ok": 0
+        },
+        "agent_double": {
+          "n": 300,
+          "exact": 269,
+          "rct_ok": 291
+        }
+      }
+    },
+    "m125": {
+      "n": 300,
+      "exact": 274,
+      "rct_ok": 291,
+      "rct_ci": [
+        0.943976849008093,
+        0.9841383267940355
+      ],
+      "tp": 81,
+      "fp": 6,
+      "fn": 3,
+      "precision": 0.9310344827586207,
+      "recall": 0.9642857142857143,
+      "f1": 0.9473684210526315,
+      "confusion": {
+        "INDIVIDUAL": {
+          "INDIVIDUAL": 60,
+          "CLUSTER": 1,
+          "QUASI": 1,
+          "SECONDARY": 0,
+          "PROTOCOL": 0,
+          "REVIEW": 0,
+          "OTHER": 2
+        },
+        "CLUSTER": {
+          "INDIVIDUAL": 1,
+          "CLUSTER": 19,
+          "QUASI": 0,
+          "SECONDARY": 0,
+          "PROTOCOL": 0,
+          "REVIEW": 0,
+          "OTHER": 0
+        },
+        "QUASI": {
+          "INDIVIDUAL": 0,
+          "CLUSTER": 0,
+          "QUASI": 30,
+          "SECONDARY": 1,
+          "PROTOCOL": 0,
+          "REVIEW": 0,
+          "OTHER": 1
+        },
+        "SECONDARY": {
+          "INDIVIDUAL": 5,
+          "CLUSTER": 0,
+          "QUASI": 1,
+          "SECONDARY": 54,
+          "PROTOCOL": 0,
+          "REVIEW": 0,
+          "OTHER": 4
+        },
+        "PROTOCOL": {
+          "INDIVIDUAL": 1,
+          "CLUSTER": 0,
+          "QUASI": 0,
+          "SECONDARY": 1,
+          "PROTOCOL": 4,
+          "REVIEW": 0,
+          "OTHER": 1
+        },
+        "REVIEW": {
+          "INDIVIDUAL": 0,
+          "CLUSTER": 0,
+          "QUASI": 0,
+          "SECONDARY": 0,
+          "PROTOCOL": 0,
+          "REVIEW": 11,
+          "OTHER": 0
+        },
+        "OTHER": {
+          "INDIVIDUAL": 0,
+          "CLUSTER": 0,
+          "QUASI": 4,
+          "SECONDARY": 1,
+          "PROTOCOL": 1,
+          "REVIEW": 0,
+          "OTHER": 96
+        }
+      },
+      "tiers": {
+        "read_full": {
+          "n": 0,
+          "exact": 0,
+          "rct_ok": 0
+        },
+        "agent_double": {
+          "n": 300,
+          "exact": 274,
+          "rct_ok": 291
+        }
+      }
+    },
+    "rules": {
+      "intersection_ok": 292,
+      "union_ok": 290,
+      "n": 300
+    }
+  }
+}

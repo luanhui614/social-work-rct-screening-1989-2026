@@ -33,6 +33,8 @@ Perron, B. E., Victor, B. G., & Qi, Z. (2026b). Evolution of social work knowled
 
 ## Files
 
+Start with the **[research-materials index](docs/RESEARCH_MATERIALS.md)** for prompts, documented run settings, original audit-design metadata, reference review instructions and the blank review form.
+
 - [Final method](docs/METHODS.md), [source attribution](docs/DATA_SOURCES.md), and [data dictionary](docs/DATA_DICTIONARY.md).
 - [Final reference codebook](docs/CODEBOOK_v1.3.md) and [documented model prompt](docs/MODEL_PROMPT_v2.md).
 - `data/`: final minimized screening records, reference coding, additional final exclusion and recorded linkage pairs.
