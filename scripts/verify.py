@@ -2,11 +2,19 @@
 """Check final counts, scope and release contents before publication."""
 import json
 import hashlib
+import math
 import sys
 from collections import Counter
 from pathlib import Path
 from study import aggregate_links,analyze,consensus,decision,read_jsonl
 ROOT=Path(__file__).resolve().parents[1]
+def equivalent(a,b):
+    """Permit floating-point roundoff across supported Python versions only."""
+    if isinstance(a,float) or isinstance(b,float):
+        return isinstance(a,(int,float)) and isinstance(b,(int,float)) and math.isclose(a,b,rel_tol=1e-12,abs_tol=1e-12)
+    if isinstance(a,dict):return isinstance(b,dict) and a.keys()==b.keys() and all(equivalent(a[k],b[k]) for k in a)
+    if isinstance(a,list):return isinstance(b,list) and len(a)==len(b) and all(equivalent(x,y) for x,y in zip(a,b))
+    return a==b
 def main():
     rows=read_jsonl(ROOT/'data/record_level_results.jsonl');a=analyze(rows);s=a['summary']
     assert len(rows)==89083
@@ -28,6 +36,11 @@ def main():
             assert sum(r['rct'] for r in z)==s['totals'][c]['rct']
     links=aggregate_links([r for r in rows if r['corpus']=='sswr' and decision(r)[1]],read_jsonl(ROOT/'data/linkage_pair_assessments.jsonl'))
     assert Counter(r['outcome'] for r in links)=={'SAME':83,'RELATED_ONLY':68,'INDETERMINATE':29,'NOT_IDENTIFIED':379}
+    for name,expected in a.items():
+        result=ROOT/'results'/(name+'.json')
+        if result.exists():assert equivalent(expected,json.loads(result.read_text())),name
+    result=ROOT/'results/linkage_record_outcomes.json'
+    if result.exists():assert equivalent(links,json.loads(result.read_text()))
     forbidden={'abstract','title','authors','reviewer_name','original_merged_label','latest_human_label','original_criteria','freeze_version'}
     assert all(not (forbidden & set(r)) for r in rows)
     tracked_files=[p for p in ROOT.rglob('*') if p.is_file() and '.git' not in p.parts and '__pycache__' not in p.parts]
@@ -39,6 +52,10 @@ def main():
     if manifest.exists():
         for line in manifest.read_text().splitlines():
             expected,name=line.split('  ',1)
+            # Published bytes can be checked before regeneration. Afterwards,
+            # compare derived numerical results above: Python 3.12 improved
+            # float summation and can change only the last serialized digit.
+            if name.startswith('results/') and '--snapshot' not in sys.argv:continue
             assert hashlib.sha256((ROOT/name).read_bytes()).hexdigest()==expected,name
     print('PASS: scientific counts, classification precedence, audit units, linkage aggregation and publication file boundary.')
 if __name__=='__main__':main()

@@ -8,6 +8,8 @@ Public study code, the operational codebook, final categorical reference coding 
 
 Python 3.9 or newer; no third-party package is required for the numerical analysis.
 
+Source files are checked by SHA-256. Recomputed numerical outputs are checked with a 1e-12 tolerance for floating-point roundoff across Python versions; counts and categorical decisions must agree exactly. To check every published byte before regeneration, run `python3 scripts/verify.py --snapshot`.
+
 ```bash
 python3 scripts/reproduce.py
 python3 scripts/export_review_worklist.py
