@@ -1,0 +1,26 @@
+[
+  {
+    "corpus": "swrd",
+    "counts": {
+      "OTHER": 59234,
+      "REVIEW": 3747,
+      "INDIVIDUAL": 391,
+      "QUASI": 1301,
+      "SECONDARY": 482,
+      "PROTOCOL": 85,
+      "CLUSTER": 50
+    }
+  },
+  {
+    "corpus": "sswr",
+    "counts": {
+      "OTHER": 19598,
+      "SECONDARY": 1576,
+      "QUASI": 747,
+      "INDIVIDUAL": 465,
+      "REVIEW": 1217,
+      "CLUSTER": 106,
+      "PROTOCOL": 84
+    }
+  }
+]

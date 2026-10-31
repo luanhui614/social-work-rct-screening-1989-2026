@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite the study manuscript and the upstream databases when using this study's materials."
+title: "Social work RCT screening and verification, 1989–2026"
+type: software
+authors:
+  - name: "luanhui614"
+version: "1.0.0"
+date-released: "2026-10-31"
+repository-code: "https://github.com/luanhui614/social-work-rct-screening-1989-2026"
+url: "https://github.com/luanhui614/social-work-rct-screening-1989-2026"
+keywords:
+  - randomized controlled trials
+  - social work
+  - dual-model screening
+  - human verification
+  - adjudication

@@ -1,0 +1,44 @@
+#!/usr/bin/env python3
+"""Check final counts, scope and release contents before publication."""
+import json
+import hashlib
+import sys
+from collections import Counter
+from pathlib import Path
+from study import aggregate_links,analyze,consensus,decision,read_jsonl
+ROOT=Path(__file__).resolve().parents[1]
+def main():
+    rows=read_jsonl(ROOT/'data/record_level_results.jsonl');a=analyze(rows);s=a['summary']
+    assert len(rows)==89083
+    assert (s['totals']['swrd']['n'],s['totals']['swrd']['rct'])==(64417,388)
+    assert (s['totals']['sswr']['n'],s['totals']['sswr']['rct'])==(23772,559)
+    assert (s['journal_count'],s['journals_with_rct'],s['top2_rcts'],s['top15_rcts'])==(88,46,188,322)
+    assert sum(r['review_ids'] for r in a['human_audit'])==1622
+    assert sum(r['classifiable_deduplicated'] for r in a['human_audit'])==1617
+    assert consensus('INDIVIDUAL','CLUSTER')=='concordant_positive'
+    assert consensus('OTHER','SECONDARY')=='concordant_negative'
+    assert consensus('QUASI','INDIVIDUAL')=='discordant'
+    # Final reference coding overrides model consensus in both directions.
+    known=next(r for r in rows if r['corpus']=='swrd' and r['record_id']=='37634')
+    assert known['final_reference_label']=='SECONDARY' and not decision(known)[1] and not known['in_original_audit']
+    for c in ['swrd','sswr']:
+        for name in ['annual','period','journals' if c=='swrd' else 'conference_formats']:
+            z=[r for r in a[name] if r['corpus']==c]
+            assert sum(r['n'] for r in z)==s['totals'][c]['n']
+            assert sum(r['rct'] for r in z)==s['totals'][c]['rct']
+    links=aggregate_links([r for r in rows if r['corpus']=='sswr' and decision(r)[1]],read_jsonl(ROOT/'data/linkage_pair_assessments.jsonl'))
+    assert Counter(r['outcome'] for r in links)=={'SAME':83,'RELATED_ONLY':68,'INDETERMINATE':29,'NOT_IDENTIFIED':379}
+    forbidden={'abstract','title','authors','reviewer_name','original_merged_label','latest_human_label','original_criteria','freeze_version'}
+    assert all(not (forbidden & set(r)) for r in rows)
+    tracked_files=[p for p in ROOT.rglob('*') if p.is_file() and '.git' not in p.parts and '__pycache__' not in p.parts]
+    for p in tracked_files:
+        assert 'archive' not in [x.casefold() for x in p.relative_to(ROOT).parts]
+        assert p.suffix not in {'.docx','.xlsx','.zip','.bundle','.log'}
+        assert p.stat().st_size<100*1024*1024
+    manifest=ROOT/'MANIFEST.sha256'
+    if manifest.exists():
+        for line in manifest.read_text().splitlines():
+            expected,name=line.split('  ',1)
+            assert hashlib.sha256((ROOT/name).read_bytes()).hexdigest()==expected,name
+    print('PASS: scientific counts, classification precedence, audit units, linkage aggregation and publication file boundary.')
+if __name__=='__main__':main()

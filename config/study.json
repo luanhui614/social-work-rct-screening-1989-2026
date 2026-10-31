@@ -1,0 +1,61 @@
+{
+  "study_version": "1.0.0",
+  "unit": "report",
+  "journal_count": 88,
+  "models": {
+    "model_a": "qwen3.8:27b-mlx",
+    "model_b": "qwen3.8-flash-next:125b-mlx"
+  },
+  "model_prompt_version": "v2",
+  "final_reference_codebook": "1.3-frozen-2026-10-15",
+  "platform": "Ollama native chat endpoint",
+  "temperature": 0,
+  "think": false,
+  "num_predict": 6,
+  "top_logprobs": 5,
+  "fine_tuning": false,
+  "few_shot_examples": false,
+  "original_execution_dates": null,
+  "input_truncation_policy": null,
+  "retry_implementation": null,
+  "original_sampling_generator_available": false,
+  "sampling_seed_as_reported": 20260905,
+  "original_rng": null,
+  "draw_independence": null,
+  "without_replacement_implementation": null,
+  "boundary_score_threshold": 0.02,
+  "negative_audit_role": "targeted quality assurance; no sampling-weighted primary total",
+  "expected": {
+    "raw_journal_n": 65290,
+    "raw_conference_n": 23793,
+    "analysis_journal_n": 64417,
+    "analysis_conference_n": 23772,
+    "journal_rct_reports": 388,
+    "conference_rct_reports": 559,
+    "original_audit_ids": 1622
+  },
+  "sampling_frames": {
+    "swrd": {
+      "frame_sizes": {
+        "disagree": 71,
+        "confirmed": 385,
+        "boundary": 392,
+        "keyword": 435,
+        "double_negative": 64834
+      },
+      "frame_overlap": 51,
+      "sample_overlap": 8
+    },
+    "sswr": {
+      "frame_sizes": {
+        "disagree": 55,
+        "confirmed": 531,
+        "boundary": 276,
+        "keyword": 1015,
+        "double_negative": 23207
+      },
+      "frame_overlap": 131,
+      "sample_overlap": 12
+    }
+  }
+}

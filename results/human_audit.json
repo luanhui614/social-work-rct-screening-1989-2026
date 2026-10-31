@@ -1,0 +1,62 @@
+[
+  {
+    "corpus": "swrd",
+    "stratum": "concordant_positive",
+    "review_ids": 385,
+    "classifiable_deduplicated": 385,
+    "rct": 375,
+    "non_rct": 10,
+    "ppv": 0.974025974025974,
+    "sample_npv": null
+  },
+  {
+    "corpus": "swrd",
+    "stratum": "discordant",
+    "review_ids": 71,
+    "classifiable_deduplicated": 71,
+    "rct": 11,
+    "non_rct": 60,
+    "ppv": null,
+    "sample_npv": null
+  },
+  {
+    "corpus": "swrd",
+    "stratum": "concordant_negative",
+    "review_ids": 292,
+    "classifiable_deduplicated": 287,
+    "rct": 2,
+    "non_rct": 285,
+    "ppv": null,
+    "sample_npv": 0.9930313588850174
+  },
+  {
+    "corpus": "sswr",
+    "stratum": "concordant_positive",
+    "review_ids": 531,
+    "classifiable_deduplicated": 531,
+    "rct": 527,
+    "non_rct": 4,
+    "ppv": 0.992467043314501,
+    "sample_npv": null
+  },
+  {
+    "corpus": "sswr",
+    "stratum": "discordant",
+    "review_ids": 55,
+    "classifiable_deduplicated": 55,
+    "rct": 28,
+    "non_rct": 27,
+    "ppv": null,
+    "sample_npv": null
+  },
+  {
+    "corpus": "sswr",
+    "stratum": "concordant_negative",
+    "review_ids": 288,
+    "classifiable_deduplicated": 288,
+    "rct": 4,
+    "non_rct": 284,
+    "ppv": null,
+    "sample_npv": 0.9861111111111112
+  }
+]

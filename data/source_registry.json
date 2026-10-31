@@ -1,0 +1,24 @@
+{
+  "upstream_project": "https://github.com/beperron/SocialWork-MetaData",
+  "upstream_documentation_commit": "1444be06a0d47467d83afeaa9f7913e0bca33710",
+  "upstream_checked": "2026-10-31",
+  "supplementary_linkage_metadata_release": "data-v1.4",
+  "initial_screening_extract_release": "not established; source extract fingerprints retained",
+  "initial_screening_extract_sha256": {
+    "swrd": "85c4bb85482a429441a2591d9a203e3ea9f7aad8255f8fe94f4319f31a09640c",
+    "sswr": "3bf4f7167da8c4c58d015d89a6c0e13e6aebfcf9a6121d2538edff785d4bc4f1"
+  },
+  "raw_source_abstracts_redistributed": false,
+  "initial_research_core_n": 62602,
+  "analysis_scope_note": "The study screening extract includes multiple document types; the upstream scientific-research core is not the study denominator.",
+  "citations": [
+    {
+      "doi": "10.1177/10497315261416833",
+      "database": "SWRD"
+    },
+    {
+      "doi": "10.1086/741324",
+      "database": "SSWR"
+    }
+  ]
+}

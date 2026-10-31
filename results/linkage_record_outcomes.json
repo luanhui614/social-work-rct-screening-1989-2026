@@ -1,0 +1,6593 @@
+[
+  {
+    "conference_record_id": "2005-U-0009",
+    "conference_year": 2005,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [
+      "27354"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2005-U-0058",
+    "conference_year": 2005,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [
+      "50948"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2005-U-0059",
+    "conference_year": 2005,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "19162"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2005-U-0068",
+    "conference_year": 2005,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "89099"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2005,
+    "first_identified_same_journal_id": "89099",
+    "signed_lag": 0
+  },
+  {
+    "conference_record_id": "2005-U-0233",
+    "conference_year": 2005,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2005-U-0239",
+    "conference_year": 2005,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2005-U-0241",
+    "conference_year": 2005,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2005-U-0310",
+    "conference_year": 2005,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2005-U-0343",
+    "conference_year": 2005,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2005-U-0377",
+    "conference_year": 2005,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "52507"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2005-U-0396",
+    "conference_year": 2005,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2006-U-0023",
+    "conference_year": 2006,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2006-U-0053",
+    "conference_year": 2006,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2006-U-0087",
+    "conference_year": 2006,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "52507"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2006-U-0092",
+    "conference_year": 2006,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2006-U-0098",
+    "conference_year": 2006,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2006-U-0102",
+    "conference_year": 2006,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2006-U-0122",
+    "conference_year": 2006,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [
+      "18015"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2006-U-0160",
+    "conference_year": 2006,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2006-U-0168",
+    "conference_year": 2006,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2006-U-0221",
+    "conference_year": 2006,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "23378"
+    ],
+    "related_journal_ids": [
+      "21130"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 1999,
+    "first_identified_same_journal_id": "23378",
+    "signed_lag": -7
+  },
+  {
+    "conference_record_id": "2006-U-0230",
+    "conference_year": 2006,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "19969"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2006,
+    "first_identified_same_journal_id": "19969",
+    "signed_lag": 0
+  },
+  {
+    "conference_record_id": "2006-U-0235",
+    "conference_year": 2006,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2006-U-0255",
+    "conference_year": 2006,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [
+      "19969"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2006-U-0295",
+    "conference_year": 2006,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "20200"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2006-X-0002",
+    "conference_year": 2006,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "43184",
+      "49234"
+    ],
+    "related_journal_ids": [
+      "88931"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2010,
+    "first_identified_same_journal_id": "49234",
+    "signed_lag": 4
+  },
+  {
+    "conference_record_id": "2007-O-4989",
+    "conference_year": 2007,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [
+      "26284"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2007-O-5336",
+    "conference_year": 2007,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2007-O-5780",
+    "conference_year": 2007,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2007-O-5813",
+    "conference_year": 2007,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "19045"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2007,
+    "first_identified_same_journal_id": "19045",
+    "signed_lag": 0
+  },
+  {
+    "conference_record_id": "2007-O-5850",
+    "conference_year": 2007,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2007-O-6300",
+    "conference_year": 2007,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "19969"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2006,
+    "first_identified_same_journal_id": "19969",
+    "signed_lag": -1
+  },
+  {
+    "conference_record_id": "2007-O-6306",
+    "conference_year": 2007,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "51488"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2009,
+    "first_identified_same_journal_id": "51488",
+    "signed_lag": 2
+  },
+  {
+    "conference_record_id": "2007-O-6484",
+    "conference_year": 2007,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2007-O-6667",
+    "conference_year": 2007,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [
+      "51847"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2007-O-6770",
+    "conference_year": 2007,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2007-O-6830",
+    "conference_year": 2007,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2007-O-6965",
+    "conference_year": 2007,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "48128"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2011,
+    "first_identified_same_journal_id": "48128",
+    "signed_lag": 4
+  },
+  {
+    "conference_record_id": "2007-O-7010",
+    "conference_year": 2007,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "27647"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2007-O-7389",
+    "conference_year": 2007,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2008-O-7526",
+    "conference_year": 2008,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "26284"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2008,
+    "first_identified_same_journal_id": "26284",
+    "signed_lag": 0
+  },
+  {
+    "conference_record_id": "2008-O-7749",
+    "conference_year": 2008,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2008-O-8166",
+    "conference_year": 2008,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "19152"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2008-O-8227",
+    "conference_year": 2008,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2008-O-8235",
+    "conference_year": 2008,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2008-O-8257",
+    "conference_year": 2008,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [
+      "29527"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2008-O-8329",
+    "conference_year": 2008,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2009-U-0013",
+    "conference_year": 2009,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2009-U-0025",
+    "conference_year": 2009,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2009-U-0029",
+    "conference_year": 2009,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2009-U-0035",
+    "conference_year": 2009,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2009-U-0042",
+    "conference_year": 2009,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2009-U-0067",
+    "conference_year": 2009,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [
+      "29527"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2009-U-0104",
+    "conference_year": 2009,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "48137"
+    ],
+    "unresolved_journal_ids": [
+      "17611"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2009-U-0155",
+    "conference_year": 2009,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2009-U-0158",
+    "conference_year": 2009,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2009-U-0171",
+    "conference_year": 2009,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2009-U-0217",
+    "conference_year": 2009,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "43184",
+      "49234"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2010,
+    "first_identified_same_journal_id": "49234",
+    "signed_lag": 1
+  },
+  {
+    "conference_record_id": "2009-U-0325",
+    "conference_year": 2009,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "51107"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [
+      "41191"
+    ],
+    "first_identified_same_year": 2009,
+    "first_identified_same_journal_id": "51107",
+    "signed_lag": 0
+  },
+  {
+    "conference_record_id": "2009-U-0327",
+    "conference_year": 2009,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2009-U-0337",
+    "conference_year": 2009,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "69199"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2009-U-0348",
+    "conference_year": 2009,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "26284"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2008,
+    "first_identified_same_journal_id": "26284",
+    "signed_lag": -1
+  },
+  {
+    "conference_record_id": "2009-U-0360",
+    "conference_year": 2009,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2009-U-0365",
+    "conference_year": 2009,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "52762"
+    ],
+    "unresolved_journal_ids": [
+      "56482"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2009-U-0405",
+    "conference_year": 2009,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "37685",
+      "48128"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2011,
+    "first_identified_same_journal_id": "48128",
+    "signed_lag": 2
+  },
+  {
+    "conference_record_id": "2009-U-0411",
+    "conference_year": 2009,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "46005"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2012,
+    "first_identified_same_journal_id": "46005",
+    "signed_lag": 3
+  },
+  {
+    "conference_record_id": "2009-U-0450",
+    "conference_year": 2009,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2009-X-0015",
+    "conference_year": 2009,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2009-X-0016",
+    "conference_year": 2009,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2010-U-0074",
+    "conference_year": 2010,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "46255"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2010-U-0079",
+    "conference_year": 2010,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2010-U-0099",
+    "conference_year": 2010,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2010-U-0114",
+    "conference_year": 2010,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "39694"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2010-U-0115",
+    "conference_year": 2010,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "28263"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2006,
+    "first_identified_same_journal_id": "28263",
+    "signed_lag": -4
+  },
+  {
+    "conference_record_id": "2010-U-0139",
+    "conference_year": 2010,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2010-U-0144",
+    "conference_year": 2010,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2010-U-0149",
+    "conference_year": 2010,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2010-U-0156",
+    "conference_year": 2010,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2010-U-0193",
+    "conference_year": 2010,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2010-U-0254",
+    "conference_year": 2010,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2010-U-0273",
+    "conference_year": 2010,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "38445"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2010-U-0296",
+    "conference_year": 2010,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "52762"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2010-U-0322",
+    "conference_year": 2010,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2010-U-0355",
+    "conference_year": 2010,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "41215",
+      "89240"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2010-U-0384",
+    "conference_year": 2010,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2010-U-0441",
+    "conference_year": 2010,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "41215"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2010-U-0459",
+    "conference_year": 2010,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2010-X-0011",
+    "conference_year": 2010,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2011-O-0003",
+    "conference_year": 2011,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2011-U-0023",
+    "conference_year": 2011,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2011-U-0027",
+    "conference_year": 2011,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2011-U-0029",
+    "conference_year": 2011,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "46256"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2011-U-0043",
+    "conference_year": 2011,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2011-U-0064",
+    "conference_year": 2011,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "37685",
+      "48128"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2011,
+    "first_identified_same_journal_id": "48128",
+    "signed_lag": 0
+  },
+  {
+    "conference_record_id": "2011-U-0067",
+    "conference_year": 2011,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "46475"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2011-U-0075",
+    "conference_year": 2011,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2011-U-0077",
+    "conference_year": 2011,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2011-U-0086",
+    "conference_year": 2011,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2011-U-0189",
+    "conference_year": 2011,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2011-U-0194",
+    "conference_year": 2011,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "19969"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2006,
+    "first_identified_same_journal_id": "19969",
+    "signed_lag": -5
+  },
+  {
+    "conference_record_id": "2011-U-0209",
+    "conference_year": 2011,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "45523"
+    ],
+    "related_journal_ids": [
+      "47996"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2012,
+    "first_identified_same_journal_id": "45523",
+    "signed_lag": 1
+  },
+  {
+    "conference_record_id": "2011-U-0220",
+    "conference_year": 2011,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2011-U-0237",
+    "conference_year": 2011,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2011-U-0239",
+    "conference_year": 2011,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2011-U-0269",
+    "conference_year": 2011,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2011-U-0298",
+    "conference_year": 2011,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2011-U-0377",
+    "conference_year": 2011,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2011-U-0409",
+    "conference_year": 2011,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2011-U-0413",
+    "conference_year": 2011,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "49077"
+    ],
+    "related_journal_ids": [
+      "18928",
+      "40695",
+      "98154"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2010,
+    "first_identified_same_journal_id": "49077",
+    "signed_lag": -1
+  },
+  {
+    "conference_record_id": "2011-U-0415",
+    "conference_year": 2011,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "48507"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2011,
+    "first_identified_same_journal_id": "48507",
+    "signed_lag": 0
+  },
+  {
+    "conference_record_id": "2011-U-0423",
+    "conference_year": 2011,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [
+      "39968"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2011-U-0438",
+    "conference_year": 2011,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2011-U-0444",
+    "conference_year": 2011,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2011-U-0464",
+    "conference_year": 2011,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2011-U-0467",
+    "conference_year": 2011,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2011-U-0468",
+    "conference_year": 2011,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2011-U-0470",
+    "conference_year": 2011,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "41215"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2011-U-0497",
+    "conference_year": 2011,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2011-U-0533",
+    "conference_year": 2011,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2011-U-0553",
+    "conference_year": 2011,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2011-X-0013",
+    "conference_year": 2011,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2012-O-0006",
+    "conference_year": 2012,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2012-P-0059",
+    "conference_year": 2012,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2012-P-0103",
+    "conference_year": 2012,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2012-U-0002",
+    "conference_year": 2012,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2012-U-0060",
+    "conference_year": 2012,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2012-U-0136",
+    "conference_year": 2012,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2012-U-0138",
+    "conference_year": 2012,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "43184",
+      "49234"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2010,
+    "first_identified_same_journal_id": "49234",
+    "signed_lag": -2
+  },
+  {
+    "conference_record_id": "2012-U-0182",
+    "conference_year": 2012,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "43184",
+      "49234"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2010,
+    "first_identified_same_journal_id": "49234",
+    "signed_lag": -2
+  },
+  {
+    "conference_record_id": "2012-U-0216",
+    "conference_year": 2012,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2012-U-0218",
+    "conference_year": 2012,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2012-U-0255",
+    "conference_year": 2012,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2012-U-0283",
+    "conference_year": 2012,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2012-U-0335",
+    "conference_year": 2012,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2012-U-0350",
+    "conference_year": 2012,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "38924",
+      "40292"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2012-U-0429",
+    "conference_year": 2012,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2012-X-0011",
+    "conference_year": 2012,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2013-O-0012",
+    "conference_year": 2013,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2013-P-0028",
+    "conference_year": 2013,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2013-P-0124",
+    "conference_year": 2013,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "48677"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2013-U-0004",
+    "conference_year": 2013,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "41294"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2014,
+    "first_identified_same_journal_id": "41294",
+    "signed_lag": 1
+  },
+  {
+    "conference_record_id": "2013-U-0015",
+    "conference_year": 2013,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "57852"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2013-U-0021",
+    "conference_year": 2013,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2013-U-0024",
+    "conference_year": 2013,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2013-U-0028",
+    "conference_year": 2013,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "34991",
+      "69974"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2013-U-0069",
+    "conference_year": 2013,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2013-U-0102",
+    "conference_year": 2013,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2013-U-0110",
+    "conference_year": 2013,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "47143"
+    ],
+    "related_journal_ids": [
+      "44055"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2011,
+    "first_identified_same_journal_id": "47143",
+    "signed_lag": -2
+  },
+  {
+    "conference_record_id": "2013-U-0131",
+    "conference_year": 2013,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2013-U-0154",
+    "conference_year": 2013,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "37148",
+      "39254",
+      "40264"
+    ],
+    "related_journal_ids": [
+      "37634"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2015,
+    "first_identified_same_journal_id": "39254",
+    "signed_lag": 2
+  },
+  {
+    "conference_record_id": "2013-U-0214",
+    "conference_year": 2013,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2013-U-0215",
+    "conference_year": 2013,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2013-U-0243",
+    "conference_year": 2013,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2013-U-0254",
+    "conference_year": 2013,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [
+      "41481",
+      "49222"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2013-U-0256",
+    "conference_year": 2013,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2013-U-0294",
+    "conference_year": 2013,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "47152"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2011,
+    "first_identified_same_journal_id": "47152",
+    "signed_lag": -2
+  },
+  {
+    "conference_record_id": "2013-U-0331",
+    "conference_year": 2013,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "37160",
+      "59027"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2013-U-0364",
+    "conference_year": 2013,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [
+      "65166"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2013-U-0366",
+    "conference_year": 2013,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "39835"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2015,
+    "first_identified_same_journal_id": "39835",
+    "signed_lag": 2
+  },
+  {
+    "conference_record_id": "2013-U-0378",
+    "conference_year": 2013,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "81415"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2013-U-0382",
+    "conference_year": 2013,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2013-U-0395",
+    "conference_year": 2013,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2013-U-0399",
+    "conference_year": 2013,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "52642"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2013-U-0419",
+    "conference_year": 2013,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "36451"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2013-U-0433",
+    "conference_year": 2013,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2013-U-0453",
+    "conference_year": 2013,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2013-U-0479",
+    "conference_year": 2013,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "38093"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2013-X-0016",
+    "conference_year": 2013,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2014-P-0009",
+    "conference_year": 2014,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2014-P-0021",
+    "conference_year": 2014,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2014-P-0038",
+    "conference_year": 2014,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2014-P-0108",
+    "conference_year": 2014,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "38093"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2014-P-0140",
+    "conference_year": 2014,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2014-P-0163",
+    "conference_year": 2014,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2014-P-0174",
+    "conference_year": 2014,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2014-U-0003",
+    "conference_year": 2014,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "34991",
+      "69974"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2014-U-0005",
+    "conference_year": 2014,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [
+      "44976"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2014-U-0026",
+    "conference_year": 2014,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2014-U-0027",
+    "conference_year": 2014,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "41813"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2014,
+    "first_identified_same_journal_id": "41813",
+    "signed_lag": 0
+  },
+  {
+    "conference_record_id": "2014-U-0028",
+    "conference_year": 2014,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2014-U-0029",
+    "conference_year": 2014,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "41656"
+    ],
+    "related_journal_ids": [
+      "64403"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2014,
+    "first_identified_same_journal_id": "41656",
+    "signed_lag": 0
+  },
+  {
+    "conference_record_id": "2014-U-0166",
+    "conference_year": 2014,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "38091",
+      "39239"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2015,
+    "first_identified_same_journal_id": "39239",
+    "signed_lag": 1
+  },
+  {
+    "conference_record_id": "2014-U-0175",
+    "conference_year": 2014,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2014-U-0177",
+    "conference_year": 2014,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "122321",
+      "41811"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2012,
+    "first_identified_same_journal_id": "122321",
+    "signed_lag": -2
+  },
+  {
+    "conference_record_id": "2014-U-0178",
+    "conference_year": 2014,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "122321",
+      "38122"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2012,
+    "first_identified_same_journal_id": "122321",
+    "signed_lag": -2
+  },
+  {
+    "conference_record_id": "2014-U-0184",
+    "conference_year": 2014,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2014-U-0214",
+    "conference_year": 2014,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "52642"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2014-U-0239",
+    "conference_year": 2014,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "69670"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2014-U-0246",
+    "conference_year": 2014,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2014-U-0267",
+    "conference_year": 2014,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "38175"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2014-U-0303",
+    "conference_year": 2014,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "40001"
+    ],
+    "related_journal_ids": [
+      "37169"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2015,
+    "first_identified_same_journal_id": "40001",
+    "signed_lag": 1
+  },
+  {
+    "conference_record_id": "2014-U-0325",
+    "conference_year": 2014,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [
+      "41191"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2014-U-0345",
+    "conference_year": 2014,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "59027"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2014-U-0376",
+    "conference_year": 2014,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "38093"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2014-U-0382",
+    "conference_year": 2014,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "114903",
+      "42106"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2014-U-0401",
+    "conference_year": 2014,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2014-U-0424",
+    "conference_year": 2014,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "63713"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2014-U-0465",
+    "conference_year": 2014,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2015-G-0001",
+    "conference_year": 2015,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "35067"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2017,
+    "first_identified_same_journal_id": "35067",
+    "signed_lag": 2
+  },
+  {
+    "conference_record_id": "2015-G-0003",
+    "conference_year": 2015,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2015-O-0050",
+    "conference_year": 2015,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "59957"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2015-O-0066",
+    "conference_year": 2015,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2015-O-0084",
+    "conference_year": 2015,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "39075"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2016,
+    "first_identified_same_journal_id": "39075",
+    "signed_lag": 1
+  },
+  {
+    "conference_record_id": "2015-O-0112",
+    "conference_year": 2015,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2015-O-0159",
+    "conference_year": 2015,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "86546"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2019,
+    "first_identified_same_journal_id": "86546",
+    "signed_lag": 4
+  },
+  {
+    "conference_record_id": "2015-O-0174",
+    "conference_year": 2015,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "39205"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2015,
+    "first_identified_same_journal_id": "39205",
+    "signed_lag": 0
+  },
+  {
+    "conference_record_id": "2015-O-0215",
+    "conference_year": 2015,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "35162"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2017,
+    "first_identified_same_journal_id": "35162",
+    "signed_lag": 2
+  },
+  {
+    "conference_record_id": "2015-O-0256",
+    "conference_year": 2015,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2015-O-0259",
+    "conference_year": 2015,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2015-O-0261",
+    "conference_year": 2015,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2015-O-0264",
+    "conference_year": 2015,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "38091",
+      "39239"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2015,
+    "first_identified_same_journal_id": "39239",
+    "signed_lag": 0
+  },
+  {
+    "conference_record_id": "2015-O-0272",
+    "conference_year": 2015,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "38175"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2015-O-0411",
+    "conference_year": 2015,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "39765"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2015,
+    "first_identified_same_journal_id": "39765",
+    "signed_lag": 0
+  },
+  {
+    "conference_record_id": "2015-O-0414",
+    "conference_year": 2015,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "43118"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2014,
+    "first_identified_same_journal_id": "43118",
+    "signed_lag": -1
+  },
+  {
+    "conference_record_id": "2015-O-0415",
+    "conference_year": 2015,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "39360"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2015,
+    "first_identified_same_journal_id": "39360",
+    "signed_lag": 0
+  },
+  {
+    "conference_record_id": "2015-O-0418",
+    "conference_year": 2015,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2015-O-0423",
+    "conference_year": 2015,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2015-O-0448",
+    "conference_year": 2015,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2015-O-0474",
+    "conference_year": 2015,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2015-O-0515",
+    "conference_year": 2015,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2015-O-0532",
+    "conference_year": 2015,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "43184",
+      "49234"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2010,
+    "first_identified_same_journal_id": "49234",
+    "signed_lag": -5
+  },
+  {
+    "conference_record_id": "2015-O-0534",
+    "conference_year": 2015,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2015-O-0717",
+    "conference_year": 2015,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "39604"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2015,
+    "first_identified_same_journal_id": "39604",
+    "signed_lag": 0
+  },
+  {
+    "conference_record_id": "2015-P-0006",
+    "conference_year": 2015,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "40092"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2015,
+    "first_identified_same_journal_id": "40092",
+    "signed_lag": 0
+  },
+  {
+    "conference_record_id": "2015-P-0172",
+    "conference_year": 2015,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "45725"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2015-P-0177",
+    "conference_year": 2015,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "19969"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2006,
+    "first_identified_same_journal_id": "19969",
+    "signed_lag": -9
+  },
+  {
+    "conference_record_id": "2016-G-0001",
+    "conference_year": 2016,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2016-O-0001",
+    "conference_year": 2016,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2016-O-0007",
+    "conference_year": 2016,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "34991",
+      "69974"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2016-P-0053",
+    "conference_year": 2016,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2016-P-0094",
+    "conference_year": 2016,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2016-P-0112",
+    "conference_year": 2016,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2016-P-0161",
+    "conference_year": 2016,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2016-P-0252",
+    "conference_year": 2016,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "70081"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2016-P-0312",
+    "conference_year": 2016,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2016-P-0444",
+    "conference_year": 2016,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2016-P-0490",
+    "conference_year": 2016,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "52582"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2015,
+    "first_identified_same_journal_id": "52582",
+    "signed_lag": -1
+  },
+  {
+    "conference_record_id": "2016-U-0072",
+    "conference_year": 2016,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2016-U-0093",
+    "conference_year": 2016,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "37685",
+      "48128"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2011,
+    "first_identified_same_journal_id": "48128",
+    "signed_lag": -5
+  },
+  {
+    "conference_record_id": "2016-U-0094",
+    "conference_year": 2016,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "41294"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2014,
+    "first_identified_same_journal_id": "41294",
+    "signed_lag": -2
+  },
+  {
+    "conference_record_id": "2016-U-0153",
+    "conference_year": 2016,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "34991",
+      "69974"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2016-U-0207",
+    "conference_year": 2016,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "39611"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2016-U-0255",
+    "conference_year": 2016,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2016-U-0281",
+    "conference_year": 2016,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "37479"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2016,
+    "first_identified_same_journal_id": "37479",
+    "signed_lag": 0
+  },
+  {
+    "conference_record_id": "2016-U-0293",
+    "conference_year": 2016,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2016-U-0322",
+    "conference_year": 2016,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "81059",
+      "81194"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2016-U-0353",
+    "conference_year": 2016,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2016-U-0379",
+    "conference_year": 2016,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "37148",
+      "39254",
+      "40264"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2015,
+    "first_identified_same_journal_id": "39254",
+    "signed_lag": -1
+  },
+  {
+    "conference_record_id": "2016-U-0448",
+    "conference_year": 2016,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2016-U-0450",
+    "conference_year": 2016,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2016-U-0538",
+    "conference_year": 2016,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2016-U-0567",
+    "conference_year": 2016,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2016-U-0572",
+    "conference_year": 2016,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "122321",
+      "38122",
+      "41811"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2012,
+    "first_identified_same_journal_id": "122321",
+    "signed_lag": -4
+  },
+  {
+    "conference_record_id": "2016-U-0612",
+    "conference_year": 2016,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2016-U-0687",
+    "conference_year": 2016,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2016-U-0730",
+    "conference_year": 2016,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "63713"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-O-0004",
+    "conference_year": 2017,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-P-0144",
+    "conference_year": 2017,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-P-0175",
+    "conference_year": 2017,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-P-0224",
+    "conference_year": 2017,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "68683",
+      "69670"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2018,
+    "first_identified_same_journal_id": "69670",
+    "signed_lag": 1
+  },
+  {
+    "conference_record_id": "2017-P-0360",
+    "conference_year": 2017,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-P-0382",
+    "conference_year": 2017,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-P-0633",
+    "conference_year": 2017,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-P-0724",
+    "conference_year": 2017,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "57062"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2024,
+    "first_identified_same_journal_id": "57062",
+    "signed_lag": 7
+  },
+  {
+    "conference_record_id": "2017-P-0740",
+    "conference_year": 2017,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-U-0006",
+    "conference_year": 2017,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "62300",
+      "70048"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2018,
+    "first_identified_same_journal_id": "70048",
+    "signed_lag": 1
+  },
+  {
+    "conference_record_id": "2017-U-0035",
+    "conference_year": 2017,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-U-0064",
+    "conference_year": 2017,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [
+      "70280"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-U-0072",
+    "conference_year": 2017,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-U-0087",
+    "conference_year": 2017,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-U-0110",
+    "conference_year": 2017,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "68645"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2019,
+    "first_identified_same_journal_id": "68645",
+    "signed_lag": 2
+  },
+  {
+    "conference_record_id": "2017-U-0151",
+    "conference_year": 2017,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "37160",
+      "59027"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-U-0156",
+    "conference_year": 2017,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-U-0187",
+    "conference_year": 2017,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-U-0189",
+    "conference_year": 2017,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "36644"
+    ],
+    "unresolved_journal_ids": [
+      "69699"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-U-0191",
+    "conference_year": 2017,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "36350"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2017,
+    "first_identified_same_journal_id": "36350",
+    "signed_lag": 0
+  },
+  {
+    "conference_record_id": "2017-U-0205",
+    "conference_year": 2017,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-U-0251",
+    "conference_year": 2017,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "66999"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-U-0301",
+    "conference_year": 2017,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-U-0374",
+    "conference_year": 2017,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-U-0431",
+    "conference_year": 2017,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [
+      "68147"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-U-0454",
+    "conference_year": 2017,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-U-0521",
+    "conference_year": 2017,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-U-0532",
+    "conference_year": 2017,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "63713"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-U-0581",
+    "conference_year": 2017,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "56395"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-U-0602",
+    "conference_year": 2017,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "70996"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2018,
+    "first_identified_same_journal_id": "70996",
+    "signed_lag": 1
+  },
+  {
+    "conference_record_id": "2017-U-0642",
+    "conference_year": 2017,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-U-0651",
+    "conference_year": 2017,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-U-0671",
+    "conference_year": 2017,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-U-0676",
+    "conference_year": 2017,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-U-0677",
+    "conference_year": 2017,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2017-U-0698",
+    "conference_year": 2017,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2018-O-0027",
+    "conference_year": 2018,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "34991",
+      "69974"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2018-P-0211",
+    "conference_year": 2018,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2018-P-0237",
+    "conference_year": 2018,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2018-P-0295",
+    "conference_year": 2018,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2018-P-0532",
+    "conference_year": 2018,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2018-P-0548",
+    "conference_year": 2018,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2018-P-0663",
+    "conference_year": 2018,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "86546"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2019,
+    "first_identified_same_journal_id": "86546",
+    "signed_lag": 1
+  },
+  {
+    "conference_record_id": "2018-U-0027",
+    "conference_year": 2018,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "94031"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2018,
+    "first_identified_same_journal_id": "94031",
+    "signed_lag": 0
+  },
+  {
+    "conference_record_id": "2018-U-0056",
+    "conference_year": 2018,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "69881",
+      "70170"
+    ],
+    "related_journal_ids": [
+      "44518"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2018,
+    "first_identified_same_journal_id": "69881",
+    "signed_lag": 0
+  },
+  {
+    "conference_record_id": "2018-U-0065",
+    "conference_year": 2018,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [
+      "67613"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2018-U-0079",
+    "conference_year": 2018,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [
+      "35812"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2018-U-0114",
+    "conference_year": 2018,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2018-U-0155",
+    "conference_year": 2018,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2018-U-0156",
+    "conference_year": 2018,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2018-U-0157",
+    "conference_year": 2018,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "56395"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2018-U-0202",
+    "conference_year": 2018,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "68683",
+      "69670"
+    ],
+    "related_journal_ids": [
+      "35956"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2018,
+    "first_identified_same_journal_id": "69670",
+    "signed_lag": 0
+  },
+  {
+    "conference_record_id": "2018-U-0233",
+    "conference_year": 2018,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2018-U-0369",
+    "conference_year": 2018,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "39259"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2018-U-0432",
+    "conference_year": 2018,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2018-U-0494",
+    "conference_year": 2018,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2018-U-0496",
+    "conference_year": 2018,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2018-U-0576",
+    "conference_year": 2018,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2018-X-0004",
+    "conference_year": 2018,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2018-X-0016",
+    "conference_year": 2018,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "56395"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2018-X-0017",
+    "conference_year": 2018,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2018-X-0023",
+    "conference_year": 2018,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2019-G-0001",
+    "conference_year": 2019,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2019-G-0003",
+    "conference_year": 2019,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2019-P-0170",
+    "conference_year": 2019,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2019-P-0215",
+    "conference_year": 2019,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2019-P-0274",
+    "conference_year": 2019,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "96289"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2019,
+    "first_identified_same_journal_id": "96289",
+    "signed_lag": 0
+  },
+  {
+    "conference_record_id": "2019-P-0436",
+    "conference_year": 2019,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2019-P-0471",
+    "conference_year": 2019,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2019-P-0511",
+    "conference_year": 2019,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2019-P-0642",
+    "conference_year": 2019,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2019-P-0727",
+    "conference_year": 2019,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2019-U-0024",
+    "conference_year": 2019,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "62300"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2021,
+    "first_identified_same_journal_id": "62300",
+    "signed_lag": 2
+  },
+  {
+    "conference_record_id": "2019-U-0031",
+    "conference_year": 2019,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2019-U-0066",
+    "conference_year": 2019,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "61511",
+      "62220"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2022,
+    "first_identified_same_journal_id": "61511",
+    "signed_lag": 3
+  },
+  {
+    "conference_record_id": "2019-U-0083",
+    "conference_year": 2019,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [
+      "34991",
+      "69974"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2019-U-0085",
+    "conference_year": 2019,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2019-U-0088",
+    "conference_year": 2019,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2019-U-0114",
+    "conference_year": 2019,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "64324"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2021,
+    "first_identified_same_journal_id": "64324",
+    "signed_lag": 2
+  },
+  {
+    "conference_record_id": "2019-U-0126",
+    "conference_year": 2019,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2019-U-0150",
+    "conference_year": 2019,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2019-U-0191",
+    "conference_year": 2019,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2019-U-0267",
+    "conference_year": 2019,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "875"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2024,
+    "first_identified_same_journal_id": "875",
+    "signed_lag": 5
+  },
+  {
+    "conference_record_id": "2019-U-0312",
+    "conference_year": 2019,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "875"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2024,
+    "first_identified_same_journal_id": "875",
+    "signed_lag": 5
+  },
+  {
+    "conference_record_id": "2019-U-0313",
+    "conference_year": 2019,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "875"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2024,
+    "first_identified_same_journal_id": "875",
+    "signed_lag": 5
+  },
+  {
+    "conference_record_id": "2019-U-0397",
+    "conference_year": 2019,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2019-U-0412",
+    "conference_year": 2019,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "57575"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2019-U-0440",
+    "conference_year": 2019,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2019-U-0546",
+    "conference_year": 2019,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2019-U-0577",
+    "conference_year": 2019,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "45725"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2019-U-0592",
+    "conference_year": 2019,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2019-U-0601",
+    "conference_year": 2019,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2019-U-0627",
+    "conference_year": 2019,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [
+      "69175"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2019-U-0765",
+    "conference_year": 2019,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2019-X-0004",
+    "conference_year": 2019,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2019-X-0023",
+    "conference_year": 2019,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-P-0062",
+    "conference_year": 2020,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "94227"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-P-0080",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-P-0415",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-P-0426",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-P-0430",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-P-0621",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-P-0674",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-U-0088",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-U-0115",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-U-0117",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-U-0134",
+    "conference_year": 2020,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "37162",
+      "56400"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-U-0188",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-U-0191",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-U-0195",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-U-0229",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-U-0274",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-U-0280",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-U-0320",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-U-0338",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-U-0453",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-U-0465",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-U-0481",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-U-0493",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-U-0501",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-U-0505",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-U-0512",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-U-0543",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-U-0574",
+    "conference_year": 2020,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [
+      "65166"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-U-0681",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-U-0698",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-U-0748",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-U-0780",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2020-U-0789",
+    "conference_year": 2020,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-G-0003",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-G-0007",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-O-0014",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-O-0016",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-P-0038",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-P-0188",
+    "conference_year": 2021,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "72808"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2024,
+    "first_identified_same_journal_id": "72808",
+    "signed_lag": 3
+  },
+  {
+    "conference_record_id": "2021-P-0257",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-P-0275",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-P-0297",
+    "conference_year": 2021,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "86570"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2019,
+    "first_identified_same_journal_id": "86570",
+    "signed_lag": -2
+  },
+  {
+    "conference_record_id": "2021-P-0333",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-P-0375",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-P-0484",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-P-0498",
+    "conference_year": 2021,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "68762"
+    ],
+    "unresolved_journal_ids": [
+      "66262"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-P-0502",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-P-0527",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-P-0554",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-P-0612",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-U-0069",
+    "conference_year": 2021,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "57852",
+      "89187"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-U-0104",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-U-0116",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-U-0168",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-U-0205",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-U-0224",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-U-0225",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-U-0226",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-U-0233",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-U-0255",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-U-0361",
+    "conference_year": 2021,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "64555"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2021,
+    "first_identified_same_journal_id": "64555",
+    "signed_lag": 0
+  },
+  {
+    "conference_record_id": "2021-U-0399",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-U-0415",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-U-0418",
+    "conference_year": 2021,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "55671",
+      "60494"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-U-0438",
+    "conference_year": 2021,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "64040"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-U-0525",
+    "conference_year": 2021,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "71699"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2024,
+    "first_identified_same_journal_id": "71699",
+    "signed_lag": 3
+  },
+  {
+    "conference_record_id": "2021-U-0533",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-U-0534",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-U-0724",
+    "conference_year": 2021,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [
+      "56497"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-U-0751",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2021-X-0036",
+    "conference_year": 2021,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2022-G-0013",
+    "conference_year": 2022,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2022-O-0005",
+    "conference_year": 2022,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2022-O-0026",
+    "conference_year": 2022,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2022-O-0031",
+    "conference_year": 2022,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [
+      "61715"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2022-P-0019",
+    "conference_year": 2022,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2022-P-0030",
+    "conference_year": 2022,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2022-P-0283",
+    "conference_year": 2022,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2022-P-0354",
+    "conference_year": 2022,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2022-P-0641",
+    "conference_year": 2022,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2022-P-0648",
+    "conference_year": 2022,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "41656"
+    ],
+    "related_journal_ids": [
+      "64403"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2014,
+    "first_identified_same_journal_id": "41656",
+    "signed_lag": -8
+  },
+  {
+    "conference_record_id": "2022-P-0728",
+    "conference_year": 2022,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2022-U-0007",
+    "conference_year": 2022,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "63010"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2022,
+    "first_identified_same_journal_id": "63010",
+    "signed_lag": 0
+  },
+  {
+    "conference_record_id": "2022-U-0027",
+    "conference_year": 2022,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2022-U-0039",
+    "conference_year": 2022,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "56960"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2022-U-0091",
+    "conference_year": 2022,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2022-U-0255",
+    "conference_year": 2022,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "875"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2024,
+    "first_identified_same_journal_id": "875",
+    "signed_lag": 2
+  },
+  {
+    "conference_record_id": "2022-U-0256",
+    "conference_year": 2022,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2022-U-0258",
+    "conference_year": 2022,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2022-U-0329",
+    "conference_year": 2022,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "68762"
+    ],
+    "unresolved_journal_ids": [
+      "66262"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2022-U-0450",
+    "conference_year": 2022,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2022-U-0508",
+    "conference_year": 2022,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2022-U-0566",
+    "conference_year": 2022,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "65652"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2022-U-0582",
+    "conference_year": 2022,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2023-G-0015",
+    "conference_year": 2023,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2023-P-0029",
+    "conference_year": 2023,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2023-P-0162",
+    "conference_year": 2023,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2023-P-0337",
+    "conference_year": 2023,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2023-P-0406",
+    "conference_year": 2023,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2023-P-0472",
+    "conference_year": 2023,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2023-P-0698",
+    "conference_year": 2023,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "63114"
+    ],
+    "unresolved_journal_ids": [
+      "540"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2023-U-0020",
+    "conference_year": 2023,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2023-U-0045",
+    "conference_year": 2023,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2023-U-0084",
+    "conference_year": 2023,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "56395"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2023-U-0105",
+    "conference_year": 2023,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2023-U-0122",
+    "conference_year": 2023,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2023-U-0189",
+    "conference_year": 2023,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2023-U-0242",
+    "conference_year": 2023,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2023-U-0294",
+    "conference_year": 2023,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2023-U-0321",
+    "conference_year": 2023,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "875"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2024,
+    "first_identified_same_journal_id": "875",
+    "signed_lag": 1
+  },
+  {
+    "conference_record_id": "2023-U-0322",
+    "conference_year": 2023,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "875"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2024,
+    "first_identified_same_journal_id": "875",
+    "signed_lag": 1
+  },
+  {
+    "conference_record_id": "2023-U-0325",
+    "conference_year": 2023,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2023-U-0326",
+    "conference_year": 2023,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2023-U-0361",
+    "conference_year": 2023,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2023-U-0386",
+    "conference_year": 2023,
+    "outcome": "INDETERMINATE",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "68762"
+    ],
+    "unresolved_journal_ids": [
+      "66262"
+    ],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2023-U-0625",
+    "conference_year": 2023,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2023-U-0665",
+    "conference_year": 2023,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2023-U-0703",
+    "conference_year": 2023,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2023-U-0752",
+    "conference_year": 2023,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2023-U-0760",
+    "conference_year": 2023,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2023-U-0817",
+    "conference_year": 2023,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2024-G-0016",
+    "conference_year": 2024,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "60480"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2024-G-0018",
+    "conference_year": 2024,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2024-O-0003",
+    "conference_year": 2024,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "61715"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2023,
+    "first_identified_same_journal_id": "61715",
+    "signed_lag": -1
+  },
+  {
+    "conference_record_id": "2024-P-0350",
+    "conference_year": 2024,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2024-P-0409",
+    "conference_year": 2024,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2024-P-0561",
+    "conference_year": 2024,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2024-U-0044",
+    "conference_year": 2024,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "698"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2024,
+    "first_identified_same_journal_id": "698",
+    "signed_lag": 0
+  },
+  {
+    "conference_record_id": "2024-U-0091",
+    "conference_year": 2024,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2024-U-0126",
+    "conference_year": 2024,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2024-U-0131",
+    "conference_year": 2024,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2024-U-0140",
+    "conference_year": 2024,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2024-U-0153",
+    "conference_year": 2024,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2024-U-0255",
+    "conference_year": 2024,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2024-U-0279",
+    "conference_year": 2024,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2024-U-0314",
+    "conference_year": 2024,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2024-U-0318",
+    "conference_year": 2024,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2024-U-0490",
+    "conference_year": 2024,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2024-U-0508",
+    "conference_year": 2024,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2024-U-0543",
+    "conference_year": 2024,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2024-U-0671",
+    "conference_year": 2024,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2024-U-0673",
+    "conference_year": 2024,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2024-U-0700",
+    "conference_year": 2024,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-G-0033",
+    "conference_year": 2025,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "55873"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2025,
+    "first_identified_same_journal_id": "55873",
+    "signed_lag": 0
+  },
+  {
+    "conference_record_id": "2025-O-0021",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-P-0034",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-P-0084",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-P-0423",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-P-0548",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-P-0623",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-P-0710",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-P-0752",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-U-0033",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-U-0058",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-U-0082",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-U-0152",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-U-0171",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-U-0218",
+    "conference_year": 2025,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "72707"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-U-0224",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-U-0228",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-U-0233",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-U-0305",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-U-0366",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-U-0399",
+    "conference_year": 2025,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "54607"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-U-0430",
+    "conference_year": 2025,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "71219"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2025,
+    "first_identified_same_journal_id": "71219",
+    "signed_lag": 0
+  },
+  {
+    "conference_record_id": "2025-U-0432",
+    "conference_year": 2025,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "66362"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-U-0475",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-U-0506",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-U-0521",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-U-0572",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-U-0584",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-U-0621",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-U-0646",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-U-0698",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-U-0773",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-W-0001",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-X-0019",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2025-X-0020",
+    "conference_year": 2025,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2026-G-0027",
+    "conference_year": 2026,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2026-O-0007",
+    "conference_year": 2026,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2026-O-0012",
+    "conference_year": 2026,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2026-P-0026",
+    "conference_year": 2026,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2026-P-0345",
+    "conference_year": 2026,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2026-P-0527",
+    "conference_year": 2026,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2026-P-0584",
+    "conference_year": 2026,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2026-P-0602",
+    "conference_year": 2026,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2026-P-0616",
+    "conference_year": 2026,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2026-U-0033",
+    "conference_year": 2026,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2026-U-0055",
+    "conference_year": 2026,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2026-U-0182",
+    "conference_year": 2026,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "54607"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2026-U-0183",
+    "conference_year": 2026,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2026-U-0244",
+    "conference_year": 2026,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2026-U-0282",
+    "conference_year": 2026,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2026-U-0327",
+    "conference_year": 2026,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "52236",
+      "63436"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2026-U-0336",
+    "conference_year": 2026,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2026-U-0339",
+    "conference_year": 2026,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2026-U-0369",
+    "conference_year": 2026,
+    "outcome": "SAME",
+    "same_journal_ids": [
+      "37148",
+      "39254",
+      "40264"
+    ],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": 2015,
+    "first_identified_same_journal_id": "39254",
+    "signed_lag": -11
+  },
+  {
+    "conference_record_id": "2026-U-0438",
+    "conference_year": 2026,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2026-U-0459",
+    "conference_year": 2026,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2026-U-0537",
+    "conference_year": 2026,
+    "outcome": "RELATED_ONLY",
+    "same_journal_ids": [],
+    "related_journal_ids": [
+      "56395"
+    ],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2026-U-0556",
+    "conference_year": 2026,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2026-U-0569",
+    "conference_year": 2026,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2026-U-0598",
+    "conference_year": 2026,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2026-U-0610",
+    "conference_year": 2026,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2026-U-0645",
+    "conference_year": 2026,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2026-U-0684",
+    "conference_year": 2026,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  },
+  {
+    "conference_record_id": "2026-U-0755",
+    "conference_year": 2026,
+    "outcome": "NOT_IDENTIFIED",
+    "same_journal_ids": [],
+    "related_journal_ids": [],
+    "unresolved_journal_ids": [],
+    "first_identified_same_year": null,
+    "first_identified_same_journal_id": null,
+    "signed_lag": null
+  }
+]
