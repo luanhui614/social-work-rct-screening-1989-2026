@@ -65,6 +65,9 @@ def main():
         assert load(P/'results/linkage_record_outcomes.json')==links
         assert load(P/'figures/source_data/Figure_1.json')==a['annual']
         assert load(P/'figures/source_data/Figure_2.json')==a['journals']
+        workflow=load(P/'figures/source_data/Figure_S1.json');flow=load(P/'data/flow_counts.json')
+        assert workflow['journal']==flow['swrd'] and workflow['conference']==flow['sswr']
+        assert workflow['clean_verification_n']==1612 and workflow['original_worklist_n']==1622
     if args.snapshot:
         lines=(P/'MANIFEST.sha256').read_text().splitlines();expected={}
         for line in lines:

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "updated": "2026-11-13",
-  "documentation_version": "2.0.0",
+  "documentation_version": "2.0.1",
   "analysis_status": "frozen",
   "final_results_available": true,
   "freeze_version": "screening-human-adjudication-final-2026-11-13-v6",
@@ -11,5 +11,6 @@
   "raw_abstracts_redistributed": false,
   "new_license_assigned": false,
   "repository_doi": null,
-  "historical_release_note": "v1.0.0 and v1.1.0 preserve superseded historical results; use the current frozen release."
+  "historical_release_note": "v1.0.0 and v1.1.0 preserve superseded historical results; use the current frozen release.",
+  "documentation_update": "Analytical workflow and Supplementary Figure S1 added; frozen data and statistical results unchanged."
 }

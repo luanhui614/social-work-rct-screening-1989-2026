@@ -1,0 +1,130 @@
+{
+  "figure": "S1",
+  "title": "Data preparation, screening and human verification",
+  "scope": "Final analytical dataset construction; retained model outputs are joined to cleaned records.",
+  "journal": {
+    "raw_records": 65290,
+    "source_flag_duplicate_records": 872,
+    "additional_bibliographic_duplicates": 614,
+    "total_duplicate_records": 1486,
+    "insufficient_abstract_records": 1,
+    "records_after_deduplication": 63804,
+    "clean_eligible_records": 63803,
+    "original_model_groups": {
+      "concordant_negative": 64834,
+      "concordant_positive": 385,
+      "discordant": 71
+    },
+    "clean_model_groups": {
+      "concordant_negative": 63351,
+      "concordant_positive": 382,
+      "discordant": 70
+    },
+    "original_verification_source_ids": 748,
+    "removed_verification_duplicates": 9,
+    "removed_verification_insufficient": 1,
+    "unique_classifiable_verification_records": 738,
+    "verification_by_group": [
+      {
+        "corpus": "swrd",
+        "stratum": "concordant_positive",
+        "review_ids": 385,
+        "classifiable_deduplicated": 382,
+        "rct": 372,
+        "non_rct": 10,
+        "ppv": 0.9738219895287958,
+        "sample_npv": null
+      },
+      {
+        "corpus": "swrd",
+        "stratum": "discordant",
+        "review_ids": 71,
+        "classifiable_deduplicated": 70,
+        "rct": 10,
+        "non_rct": 60,
+        "ppv": null,
+        "sample_npv": null
+      },
+      {
+        "corpus": "swrd",
+        "stratum": "concordant_negative",
+        "review_ids": 292,
+        "classifiable_deduplicated": 286,
+        "rct": 2,
+        "non_rct": 284,
+        "ppv": null,
+        "sample_npv": 0.993006993006993
+      }
+    ],
+    "additional_author_coded_records_outside_original_workbench": 1,
+    "total_unique_records_with_reference_decisions": 739,
+    "unreviewed_concordant_negatives": 63064,
+    "final_rct_reports": 384,
+    "final_individual": 351,
+    "final_cluster": 33
+  },
+  "conference": {
+    "raw_records": 23793,
+    "source_flag_duplicate_records": 21,
+    "additional_bibliographic_duplicates": 0,
+    "total_duplicate_records": 21,
+    "insufficient_abstract_records": 0,
+    "records_after_deduplication": 23772,
+    "clean_eligible_records": 23772,
+    "original_model_groups": {
+      "concordant_negative": 23207,
+      "concordant_positive": 531,
+      "discordant": 55
+    },
+    "clean_model_groups": {
+      "concordant_negative": 23186,
+      "concordant_positive": 531,
+      "discordant": 55
+    },
+    "original_verification_source_ids": 874,
+    "removed_verification_duplicates": 0,
+    "removed_verification_insufficient": 0,
+    "unique_classifiable_verification_records": 874,
+    "verification_by_group": [
+      {
+        "corpus": "sswr",
+        "stratum": "concordant_positive",
+        "review_ids": 531,
+        "classifiable_deduplicated": 531,
+        "rct": 527,
+        "non_rct": 4,
+        "ppv": 0.992467043314501,
+        "sample_npv": null
+      },
+      {
+        "corpus": "sswr",
+        "stratum": "discordant",
+        "review_ids": 55,
+        "classifiable_deduplicated": 55,
+        "rct": 28,
+        "non_rct": 27,
+        "ppv": null,
+        "sample_npv": null
+      },
+      {
+        "corpus": "sswr",
+        "stratum": "concordant_negative",
+        "review_ids": 288,
+        "classifiable_deduplicated": 288,
+        "rct": 4,
+        "non_rct": 284,
+        "ppv": null,
+        "sample_npv": 0.9861111111111112
+      }
+    ],
+    "additional_author_coded_records_outside_original_workbench": 0,
+    "total_unique_records_with_reference_decisions": 874,
+    "unreviewed_concordant_negatives": 22898,
+    "final_rct_reports": 559,
+    "final_individual": 474,
+    "final_cluster": 85
+  },
+  "clean_verification_n": 1612,
+  "original_worklist_n": 1622,
+  "additional_author_review_note": "One additional journal record was classified SECONDARY outside the designed verification sample; it is excluded and does not enter sample performance denominators."
+}

@@ -1,6 +1,10 @@
 # Social work RCT screening and human verification, 1989–2026
 
-Frozen research materials for **What Social Work Publishes**, version **2.0.0**, 13 November 2026. The repository provides the screening codebook, documented model prompt and settings, screening and linkage analysis code, final reference classifications, bibliographic cleaning decisions and minimized record-level results. Source abstracts and full-text PDFs are not redistributed.
+Frozen research materials for **What Social Work Publishes**, version **2.0.1**, 13 November 2026. The repository provides the screening codebook, documented model prompt and settings, screening and linkage analysis code, final reference classifications, bibliographic cleaning decisions and minimized record-level results. Source abstracts and full-text PDFs are not redistributed.
+
+## Analytical workflow
+
+[Workflow and reporting basis](docs/WORKFLOW.md) follow the final data-construction sequence: scope and source records → cleaning and denominators → retained dual-model classifications → human verification and adjudication → final analytical datasets → descriptive and linkage analyses. [Figure S1](figures/Figure_S1.pdf) shows the complete flow and counts. Existing Figures 1–3 retain their result-focused roles.
 
 ## Final count chain
 
