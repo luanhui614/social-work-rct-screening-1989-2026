@@ -35,4 +35,6 @@ The journal workbench is 71 disagreements + 385 positives + 150 + 150 − 8 over
 
 The reference-coding snapshot identifies the observed eligible and non-eligible sampled records. Analysis must first apply record-identity and abstract-information exclusions, then calculate sample NPV within retained sampled records. This evaluates the analyzed targeted samples, not the complete negative pool. No whole-corpus sensitivity or sampling-weighted primary count is inferred.
 
-The previous upstream-flag cleaning retained 287 journal and 288 conference sampled source records. These are snapshot counts, not proof that the full journal inventory has been completely deduplicated. Open identity issues and the final-release hold are recorded in [Data quality status](DATA_QUALITY_STATUS.md). These targeted candidate-pool definitions must not be described as two different model-specific negative pools.
+The final cleaning retains 286 journal and 288 conference sampled records. Human review identifies two and four RCT reports, respectively; sample NPV is 284/286 (99.3%) and 284/288 (98.6%). Cleaning decisions are recorded in [Data quality status](DATA_QUALITY_STATUS.md). These targeted candidate-pool definitions must not be described as two different model-specific negative pools.
+
+Current frozen counts and the original-versus-cleaned worklist denominators are in [Count flow](COUNT_FLOW.md). Final source flags and category decisions are in the frozen record file; source duplicate flags alone are not the full cleaning procedure.

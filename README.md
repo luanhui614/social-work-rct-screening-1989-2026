@@ -1,42 +1,48 @@
 # Social work RCT screening and human verification, 1989–2026
 
-Research materials for **What Social Work Publishes**: the screening criteria, documented dual-model prompt and configuration, reference coding, screening and linkage code, and minimized record-level snapshots.
+Frozen research materials for **What Social Work Publishes**, version **2.0.0**, 13 November 2026. The repository provides the screening codebook, documented model prompt and settings, screening and linkage analysis code, final reference classifications, bibliographic cleaning decisions and minimized record-level results. Source abstracts and full-text PDFs are not redistributed.
 
-**Status — 13 November 2026:** final statistical outputs are withheld pending bibliographic deduplication and reconciliation of a small number of record-level label conflicts. The retained category labels are an auditable author-accepted snapshot, not a claim that every source ID is a unique publication. See [release status](RELEASE_STATUS.json) and the [identity quality review](docs/DATA_QUALITY_STATUS.md). Earlier releases are historical snapshots, not the final manuscript dataset.
+## Final count chain
 
-## Study workflow
+|Stage|Journal records|Conference abstracts|
+|---|---:|---:|
+|Original screened source records|65,290|23,793|
+|Source-designated duplicate indices removed|872|21|
+|Additional corroborated duplicate indices removed|614|0|
+|Insufficient abstract excluded|1|0|
+|Clean analysis denominator|63,803|23,772|
+|Final identified RCT reports|384|559|
 
-Two language models classified each title and abstract separately under the same written eligibility criteria. Records both models classified as RCTs and records classified as RCTs by only one model underwent human verification. Targeted samples of records both models classified as non-RCTs were also verified. Final human decisions determine reviewed eligibility; unreviewed records both models classified as non-RCTs remain excluded. Performance is evaluated against the final human classifications, separately by screening group. Targeted negative samples do not establish sensitivity or negative predictive value for the entire negative pool, and no sampling-weighted primary count is reported.
+Journal RCTs comprise 351 INDIVIDUAL and 33 CLUSTER reports; conference RCTs comprise 474 and 85. These are report counts. The complete [count chain](docs/COUNT_FLOW.md) distinguishes source-ID workload, cleaned verification denominators and final eligibility. [Freeze status](data/freeze_status.json) and [cleaning decisions](docs/DATA_QUALITY_STATUS.md) document the final analysis version. Earlier tagged releases are superseded historical snapshots.
 
-## Research materials
+## Screening and verification
 
-- [Methods](docs/METHODS.md) and [screening codebook](docs/CODEBOOK.md).
-- [Exact documented model prompt](docs/MODEL_PROMPT_v2.md), [model configuration and run summaries](docs/MODEL_EXECUTION.md).
-- [Human verification and adjudication](docs/REFERENCE_REVIEW_PROTOCOL.md), [sampling records both models classified as non-trials](docs/NEGATIVE_AUDIT.md).
-- [Source databases](docs/DATA_SOURCES.md), [data dictionary](docs/DATA_DICTIONARY.md), [materials index](docs/RESEARCH_MATERIALS.md).
-- [Minimized screening snapshot](data/record_level_results.jsonl), [reference coding](data/reference_coding.jsonl), [additional author decision](data/additional_reference_coding.jsonl), [current linkage pairs](data/linkage_pair_assessments.jsonl).
+Two language models separately classified titles and abstracts under the same eligibility criteria. Records both models classified as RCTs and those classified as RCTs by only one model underwent verification. Targeted samples of records both models classified as non-RCTs were also reviewed. Final human decisions govern reviewed eligibility. Unreviewed concordant-negative records remain excluded.
 
-## Reproduce and check
+The original verification worklist contained 1,622 source IDs. Removing nine duplicate journal indices and one insufficient abstract left 1,612 classifiable records: 738 journal records and 874 conference abstracts. One additional author-adjudicated journal article outside this worklist is SECONDARY; it does not enter designed-sample performance denominators. Targeted negative samples do not establish whole-pool sensitivity or NPV. No sampling-weighted primary total is inferred.
 
-Python 3.9 or newer; numerical analysis uses the standard library.
+## Materials
+
+- [Codebook](docs/CODEBOOK.md), [methods](docs/METHODS.md), [reference decisions](docs/REFERENCE_REVIEW_PROTOCOL.md).
+- [Verbatim v2 prompt](docs/MODEL_PROMPT_v2.md), [documented execution](docs/MODEL_EXECUTION.md), [negative sampling](docs/NEGATIVE_AUDIT.md).
+- [Data dictionary](docs/DATA_DICTIONARY.md), [data sources](docs/DATA_SOURCES.md), [materials index](docs/RESEARCH_MATERIALS.md).
+- [Record-level data](data/README.md), [statistical results](results/SUMMARY.md), [tables](tables/README.md), [figures](figures/README.md).
+
+## Reproduce
+
+Python 3.9 or newer; the numerical analysis uses the standard library.
 
 ```bash
 python3 scripts/verify.py --snapshot
-python3 scripts/reproduce.py --allow-provisional
+python3 scripts/reproduce.py
 python3 scripts/export_review_worklist.py
 python3 scripts/verify.py --generated
 ```
 
-Explicitly provisional outputs are generated in `.provisional_results/`, which is excluded from version control. They can reproduce the retained snapshot but must not be cited as final manuscript results. The release check below is expected to stop until the open identity issues are resolved:
+Compressed JSONL files are read directly by the scripts. Integrity checks compare source counts, cleaning flags, source-to-analysis mappings, author decisions, screening-group totals, human verification denominators, yearly and journal distributions, linkage aggregation and file hashes. Reproduction uses retained model classifications; the original inference runner and sampling generator were not recovered. Recorded settings are not substituted for missing execution logs.
 
-```bash
-python3 scripts/check_release_status.py
-```
+## Attribution and rights
 
-Passing integrity or reproduction checks establishes computational consistency, not complete deduplication or independent validation of all classifications. Superseded tables, figures and the earlier enriched-reference performance comparisons have been removed from the active branch. Historical commits and tags are retained without rewriting history.
+Bibliographic source data and basic variables originate in the [Social Work Meta-Data Project](https://github.com/beperron/SocialWork-MetaData). Cite the study manuscript and source database publications listed in [Data sources](docs/DATA_SOURCES.md). Do not substitute the upstream scientific-research core for this study's screening extract.
 
-## Source data, citation and rights
-
-Bibliographic data and basic source variables originate in the [Social Work Meta-Data Project](https://github.com/beperron/SocialWork-MetaData). Cite the study manuscript and the source database publications listed in [Data sources](docs/DATA_SOURCES.md). Do not substitute the upstream scientific-research core for this study's screening extract.
-
-Source abstracts, full-text PDFs, unpublished manuscript files, internal correspondence, personal reviewer returns and the local archive are not distributed here. Third-party materials retain their own terms. No study-code license or repository DOI has been assigned. [CITATION.cff](CITATION.cff) identifies this methods and data-snapshot repository; a final statistical release has not been issued.
+Third-party materials retain their own terms. No study-code license or repository DOI has been assigned. Unpublished manuscript files, full abstracts, PDFs, personal reviewer returns and internal correspondence are not included.

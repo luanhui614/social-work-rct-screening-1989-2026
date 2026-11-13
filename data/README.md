@@ -1,5 +1,11 @@
-# Data snapshot status
+# Frozen minimized data
 
-These minimized source-record and coding files are retained for traceability and provisional reproduction. They are not the final deduplicated publication dataset. Read [RELEASE_STATUS.json](../RELEASE_STATUS.json), [the data dictionary](../docs/DATA_DICTIONARY.md) and [open identity cases](identity_qc_cases.json).
+- `record_level_results.jsonl.gz`: all 89,083 original source IDs, original model labels, source duplicate flags, final cleaning flags, source years, final years and final reference labels where available.
+- `source_to_analysis_mapping.jsonl.gz`: every original source ID mapped to its retained analysis record or documented exclusion.
+- `reference_coding.jsonl`: the original 1,622-source-ID verification worklist with final classifications and cleaning flags; 1,612 classifiable records remain after cleaning.
+- `additional_reference_coding.jsonl`: one author decision outside that worklist (journal 37634, SECONDARY).
+- `duplicate_article_mapping.json`, `bibliographic_candidate_decisions.json`, `year_corrections.json`: cleaning provenance.
+- `linkage_pair_assessments.jsonl`, `linkage_record_outcomes.jsonl`: 327 candidate-pair decisions and 559 conference report outcomes.
+- `freeze_status.json`, `flow_counts.json`: version and complete count chain.
 
-No source abstracts, full-text PDFs, manuscript drafts, private reviewer names or correspondence are included. Existing human labels have not been overwritten to make the counts agree with a preferred total.
+No abstract or PDF content is included. Category labels are human reference decisions only where a reference decision exists. Null labels for unreviewed model negatives must not be interpreted as missing model classifications or human-confirmed exclusions.

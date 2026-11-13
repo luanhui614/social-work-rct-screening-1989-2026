@@ -1,27 +1,20 @@
-# Data quality and statistical release status
+# Bibliographic cleaning and frozen status
 
-As of 13 November 2026, final statistical release is on hold for bibliographic identity reconciliation. Computational checks reproduce the retained labels and reported arithmetic; this does not prove that the underlying source IDs are unique publications.
+The known source-identity and reference-label conflicts have been resolved in version 2.0.0. The journal source extract contained 65,290 records. Its 872 original duplicate flags were supplemented by 614 corroborated duplicate indices, and one insufficient abstract was excluded, leaving 63,803 analysis records. Conference cleaning removed 21 source-designated duplicates from 23,793 abstracts, leaving 23,772.
 
-## Confirmed duplicate indexing affecting the journal numerator
+Title comparisons were supplemented by substantial-abstract comparisons to identify truncated subtitles and spelling variants. Across 662 candidate comparisons, 614 supported consolidation and 48 were retained. Candidate comparisons overlap: their union formed 587 merged article groups containing 614 excess indices. Distinct registered publication occurrences, repeated catalogue notices and separate book reviews were retained. Short generic descriptions without reviewer or publication coordinates did not justify merger; these records were conservatively retained rather than presumed duplicates. Matching abstracts alone did not merge unrelated titles.
 
-|Case|Source IDs|Article DOI|Open action|
-|---|---|---|---|
-|J-DUP-001|25098 / 73534|10.1093/swr/19.3.131|Merge two source records for one article; one title contains a typographic omission|
-|J-DUP-002|33736 / 82759|10.1300/J079v21n01_04|Merge one article indexed with different years; reconcile INDIVIDUAL versus CLUSTER|
-|J-DUP-003|34120 / 82763|10.1300/J079v20n01_07|Merge one article indexed with different years; check eligibility against the existing analogue-task exclusion|
+DOI registration metadata, when available and matching the article title, corroborated publication identity and year. Print year was preferred to an issued year; source years remain traceable. The decision register includes DOI URLs and publication coordinates. This operational reconciliation is not a claim that every source metadata field was independently verified externally.
 
-The evidence sources and precise issue status are retained in [machine-readable cases](../data/identity_qc_cases.json). The retained source flags mark these records as non-duplicates, so relying solely on those flags misses the duplicate publications. An additional near-title group, 82865 / 122194, requires identity checking and label reconciliation. Its two abstracts differ in whether random allocation is explicitly stated.
+## Final author decisions
 
-A same-journal, normalized-title scan generated 520 candidate groups, including 271 with matching normalized abstract text. These are candidate groups, not numbers of additional exclusions; the 271 groups are a subset of 520. Generic same-title items, distinct publications and reprints require bibliographic review. None of the unconfirmed candidates has been automatically deleted or recoded.
+|Source IDs|Article classification|Cleaning action|
+|---|---|---|
+|25098 / 73534|INDIVIDUAL|One article retained|
+|33736 / 82759|INDIVIDUAL|One article retained; allocation type reconciled|
+|34120 / 82763|OTHER|One non-RCT article retained in the denominator|
+|82865 / 122194|INDIVIDUAL|Author confirmed same article; one article retained|
 
-## Implication for current materials
+The final journal numerator is 384, comprising 351 individual and 33 cluster reports. The conference numerator is 559. No pending human reference-category conflict remains. Linkage preserves nine indeterminate trial identities as an outcome category; it does not force them into not-published or RCT-eligibility uncertainty.
 
-The previous 388-journal-report snapshot and its denominator must not be cited as final deduplicated results. Merging only the three confirmed double-counted articles would reduce that numerator by three while preserving eligibility, but this conditional calculation is not a replacement final total. Other denominator candidates and the listed classification issues remain unresolved.
-
-The current linkage snapshot contains 90 SAME, 99 RELATED_ONLY, 9 INDETERMINATE and 361 NOT_IDENTIFIED conference-report outcomes. The six source IDs in the three confirmed duplicate groups do not occur in the current pair file, so those three merges would not directly change these linkage outcomes. Global article-identity checks may still affect the journal search universe and linked-article summaries. These are recorded snapshot outcomes, not a newly certified final result.
-
-## Resolution required before a final release
-
-Establish a traceable source-ID-to-publication mapping; reconcile duplicate publications and publication years; resolve substantive label conflicts through the latest author decision; then regenerate denominators, verification summaries, annual and venue distributions, linkage aggregates, tables and figures. All original source IDs and decisions remain available for audit. The publication gate stays closed until this reconciliation and final checks are documented.
-
-Earlier v1.0.0 and v1.1.0 releases are historical snapshots. They have not been retroactively rewritten as corrected datasets. Superseded generated outputs have been removed from the active branch and preserved locally; no force-push or tag rewrite is used.
+See [source-to-analysis mapping](../data/source_to_analysis_mapping.jsonl.gz), [duplicate mapping](../data/duplicate_article_mapping.json), [candidate decisions](../data/bibliographic_candidate_decisions.json), [year corrections](../data/year_corrections.json) and the [complete count chain](COUNT_FLOW.md). The current output tables and figures supersede earlier releases; historical tags remain unchanged.

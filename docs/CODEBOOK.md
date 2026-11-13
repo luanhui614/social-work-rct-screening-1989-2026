@@ -1,6 +1,6 @@
 # RCT screening codebook
 
-These are the eligibility criteria and seven substantive categories stated in the current manuscript, grounded in the supplied original manuscript and written screening codebook. The same substantive criteria govern model screening and final human verification. The [documented v2 prompt](MODEL_PROMPT_v2.md) is preserved verbatim rather than rewritten retrospectively. Record-level category decisions are retained in the reference-coding snapshot; publication-identity and label-consistency checks remain open as listed in [Data quality status](DATA_QUALITY_STATUS.md).
+These are the eligibility criteria and seven substantive categories stated in the current manuscript, grounded in the supplied original manuscript and written screening codebook. The same substantive criteria govern model screening and final human verification. The [documented v2 prompt](MODEL_PROMPT_v2.md) is preserved verbatim rather than rewritten retrospectively. Record-level decisions incorporate the latest author classifications. Known identity and label conflicts are resolved in the frozen dataset; see [Data quality status](DATA_QUALITY_STATUS.md).
 
 A record qualifies as an RCT report only when its abstract supports all five conditions:
 

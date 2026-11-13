@@ -1,0 +1,1498 @@
+[
+  {
+    "corpus": "swrd",
+    "source": "Research on Social Work Practice",
+    "n": 1988,
+    "rct": 149,
+    "rate_per_1000": 74.9496981891348,
+    "ci95": [
+      64.1769546405415,
+      87.36194293788569
+    ],
+    "individual": 134,
+    "cluster": 15,
+    "rank": 1,
+    "cumulative_rcts": 149,
+    "cumulative_percent": 38.802083333333336,
+    "rct_share_percent": 38.802083333333336
+  },
+  {
+    "corpus": "swrd",
+    "source": "Journal of Psychosocial Oncology",
+    "n": 1336,
+    "rct": 39,
+    "rate_per_1000": 29.191616766467067,
+    "ci95": [
+      21.426967562843984,
+      39.65597496136302
+    ],
+    "individual": 39,
+    "cluster": 0,
+    "rank": 2,
+    "cumulative_rcts": 188,
+    "cumulative_percent": 48.958333333333336,
+    "rct_share_percent": 10.15625
+  },
+  {
+    "corpus": "swrd",
+    "source": "Journal of the Society for Social Work and Research",
+    "n": 421,
+    "rct": 17,
+    "rate_per_1000": 40.38004750593824,
+    "ci95": [
+      25.361812426944578,
+      63.71014143965122
+    ],
+    "individual": 14,
+    "cluster": 3,
+    "rank": 3,
+    "cumulative_rcts": 205,
+    "cumulative_percent": 53.385416666666664,
+    "rct_share_percent": 4.427083333333333
+  },
+  {
+    "corpus": "swrd",
+    "source": "Journal of Social Service Research",
+    "n": 1326,
+    "rct": 14,
+    "rate_per_1000": 10.558069381598793,
+    "ci95": [
+      6.299548475294535,
+      17.64425220071326
+    ],
+    "individual": 14,
+    "cluster": 0,
+    "rank": 4,
+    "cumulative_rcts": 219,
+    "cumulative_percent": 57.03125,
+    "rct_share_percent": 3.6458333333333335
+  },
+  {
+    "corpus": "swrd",
+    "source": "Social Work Research",
+    "n": 653,
+    "rct": 14,
+    "rate_per_1000": 21.43950995405819,
+    "ci95": [
+      12.813275829704269,
+      35.66335181475487
+    ],
+    "individual": 14,
+    "cluster": 0,
+    "rank": 5,
+    "cumulative_rcts": 233,
+    "cumulative_percent": 60.677083333333336,
+    "rct_share_percent": 3.6458333333333335
+  },
+  {
+    "corpus": "swrd",
+    "source": "Child & Family Social Work",
+    "n": 1743,
+    "rct": 12,
+    "rate_per_1000": 6.884681583476764,
+    "ci95": [
+      3.9427075292250735,
+      11.995464008957963
+    ],
+    "individual": 11,
+    "cluster": 1,
+    "rank": 6,
+    "cumulative_rcts": 245,
+    "cumulative_percent": 63.802083333333336,
+    "rct_share_percent": 3.125
+  },
+  {
+    "corpus": "swrd",
+    "source": "Journal of Technology in Human Services",
+    "n": 1070,
+    "rct": 12,
+    "rate_per_1000": 11.214953271028037,
+    "ci95": [
+      6.426916799834399,
+      19.500056490310275
+    ],
+    "individual": 12,
+    "cluster": 0,
+    "rank": 7,
+    "cumulative_rcts": 257,
+    "cumulative_percent": 66.92708333333333,
+    "rct_share_percent": 3.125
+  },
+  {
+    "corpus": "swrd",
+    "source": "British Journal of Social Work",
+    "n": 3302,
+    "rct": 10,
+    "rate_per_1000": 3.0284675953967293,
+    "ci95": [
+      1.645861401728395,
+      5.566056991115278
+    ],
+    "individual": 8,
+    "cluster": 2,
+    "rank": 8,
+    "cumulative_rcts": 267,
+    "cumulative_percent": 69.53125,
+    "rct_share_percent": 2.6041666666666665
+  },
+  {
+    "corpus": "swrd",
+    "source": "Social Service Review",
+    "n": 785,
+    "rct": 10,
+    "rate_per_1000": 12.738853503184714,
+    "ci95": [
+      6.933971921560395,
+      23.289412706748497
+    ],
+    "individual": 9,
+    "cluster": 1,
+    "rank": 9,
+    "cumulative_rcts": 277,
+    "cumulative_percent": 72.13541666666667,
+    "rct_share_percent": 2.6041666666666665
+  },
+  {
+    "corpus": "swrd",
+    "source": "Social Work in Health Care",
+    "n": 1580,
+    "rct": 9,
+    "rate_per_1000": 5.69620253164557,
+    "ci95": [
+      2.9996773990302183,
+      10.79050260860575
+    ],
+    "individual": 9,
+    "cluster": 0,
+    "rank": 10,
+    "cumulative_rcts": 286,
+    "cumulative_percent": 74.47916666666667,
+    "rct_share_percent": 2.34375
+  },
+  {
+    "corpus": "swrd",
+    "source": "Child & Adolescent Social Work Journal",
+    "n": 1382,
+    "rct": 7,
+    "rate_per_1000": 5.065123010130246,
+    "ci95": [
+      2.455686912565554,
+      10.41841113605007
+    ],
+    "individual": 7,
+    "cluster": 0,
+    "rank": 11,
+    "cumulative_rcts": 293,
+    "cumulative_percent": 76.30208333333333,
+    "rct_share_percent": 1.8229166666666667
+  },
+  {
+    "corpus": "swrd",
+    "source": "Health & Social Work",
+    "n": 927,
+    "rct": 7,
+    "rate_per_1000": 7.5512405609492985,
+    "ci95": [
+      3.6625508988661073,
+      15.504471209601116
+    ],
+    "individual": 7,
+    "cluster": 0,
+    "rank": 12,
+    "cumulative_rcts": 300,
+    "cumulative_percent": 78.125,
+    "rct_share_percent": 1.8229166666666667
+  },
+  {
+    "corpus": "swrd",
+    "source": "Journal of Evidence-Based Social Work",
+    "n": 613,
+    "rct": 7,
+    "rate_per_1000": 11.419249592169658,
+    "ci95": [
+      5.542264021543917,
+      23.38163297916069
+    ],
+    "individual": 7,
+    "cluster": 0,
+    "rank": 13,
+    "cumulative_rcts": 307,
+    "cumulative_percent": 79.94791666666667,
+    "rct_share_percent": 1.8229166666666667
+  },
+  {
+    "corpus": "swrd",
+    "source": "Journal of Human Behavior in the Social Environment",
+    "n": 1740,
+    "rct": 6,
+    "rate_per_1000": 3.4482758620689653,
+    "ci95": [
+      1.5813047262318918,
+      7.502926377785564
+    ],
+    "individual": 6,
+    "cluster": 0,
+    "rank": 14,
+    "cumulative_rcts": 313,
+    "cumulative_percent": 81.51041666666667,
+    "rct_share_percent": 1.5625
+  },
+  {
+    "corpus": "swrd",
+    "source": "Asia Pacific Journal of Social Work and Development",
+    "n": 460,
+    "rct": 5,
+    "rate_per_1000": 10.869565217391305,
+    "ci95": [
+      4.651517211011756,
+      25.189409160437886
+    ],
+    "individual": 5,
+    "cluster": 0,
+    "rank": 15,
+    "cumulative_rcts": 318,
+    "cumulative_percent": 82.8125,
+    "rct_share_percent": 1.3020833333333333
+  },
+  {
+    "corpus": "swrd",
+    "source": "Journal of Gerontological Social Work",
+    "n": 1659,
+    "rct": 5,
+    "rate_per_1000": 3.013863773357444,
+    "ci95": [
+      1.288008450208133,
+      7.035971414060252
+    ],
+    "individual": 4,
+    "cluster": 1,
+    "rank": 16,
+    "cumulative_rcts": 323,
+    "cumulative_percent": 84.11458333333333,
+    "rct_share_percent": 1.3020833333333333
+  },
+  {
+    "corpus": "swrd",
+    "source": "Social Work in Mental Health",
+    "n": 758,
+    "rct": 5,
+    "rate_per_1000": 6.596306068601583,
+    "ci95": [
+      2.820742288976339,
+      15.347681942123206
+    ],
+    "individual": 4,
+    "cluster": 1,
+    "rank": 17,
+    "cumulative_rcts": 328,
+    "cumulative_percent": 85.41666666666667,
+    "rct_share_percent": 1.3020833333333333
+  },
+  {
+    "corpus": "swrd",
+    "source": "Families in Society",
+    "n": 1767,
+    "rct": 4,
+    "rate_per_1000": 2.2637238256932655,
+    "ci95": [
+      0.8806592644569223,
+      5.806251504268833
+    ],
+    "individual": 4,
+    "cluster": 0,
+    "rank": 18,
+    "cumulative_rcts": 332,
+    "cumulative_percent": 86.45833333333333,
+    "rct_share_percent": 1.0416666666666667
+  },
+  {
+    "corpus": "swrd",
+    "source": "Social Work",
+    "n": 1331,
+    "rct": 4,
+    "rate_per_1000": 3.005259203606311,
+    "ci95": [
+      1.1692882649025484,
+      7.701771846727353
+    ],
+    "individual": 4,
+    "cluster": 0,
+    "rank": 19,
+    "cumulative_rcts": 336,
+    "cumulative_percent": 87.5,
+    "rct_share_percent": 1.0416666666666667
+  },
+  {
+    "corpus": "swrd",
+    "source": "Social Work in Public Health",
+    "n": 878,
+    "rct": 4,
+    "rate_per_1000": 4.555808656036446,
+    "ci95": [
+      1.7730484639167785,
+      11.655055536239855
+    ],
+    "individual": 4,
+    "cluster": 0,
+    "rank": 20,
+    "cumulative_rcts": 340,
+    "cumulative_percent": 88.54166666666667,
+    "rct_share_percent": 1.0416666666666667
+  },
+  {
+    "corpus": "swrd",
+    "source": "Children & Schools",
+    "n": 449,
+    "rct": 3,
+    "rate_per_1000": 6.6815144766147,
+    "ci95": [
+      2.274866623847219,
+      19.45781405058485
+    ],
+    "individual": 1,
+    "cluster": 2,
+    "rank": 21,
+    "cumulative_rcts": 343,
+    "cumulative_percent": 89.32291666666667,
+    "rct_share_percent": 0.78125
+  },
+  {
+    "corpus": "swrd",
+    "source": "European Journal of Social Work",
+    "n": 1352,
+    "rct": 3,
+    "rate_per_1000": 2.2189349112426036,
+    "ci95": [
+      0.7549187672366837,
+      6.5036428858744335
+    ],
+    "individual": 2,
+    "cluster": 1,
+    "rank": 22,
+    "cumulative_rcts": 346,
+    "cumulative_percent": 90.10416666666667,
+    "rct_share_percent": 0.78125
+  },
+  {
+    "corpus": "swrd",
+    "source": "Journal of HIV-AIDS & Social Services",
+    "n": 482,
+    "rct": 3,
+    "rate_per_1000": 6.224066390041494,
+    "ci95": [
+      2.118955579692385,
+      18.13756769969748
+    ],
+    "individual": 2,
+    "cluster": 1,
+    "rank": 23,
+    "cumulative_rcts": 349,
+    "cumulative_percent": 90.88541666666667,
+    "rct_share_percent": 0.78125
+  },
+  {
+    "corpus": "swrd",
+    "source": "Journal of Social Work in End-Of-Life & Palliative Care",
+    "n": 361,
+    "rct": 3,
+    "rate_per_1000": 8.310249307479225,
+    "ci95": [
+      2.8301798031375656,
+      24.14443775404865
+    ],
+    "individual": 3,
+    "cluster": 0,
+    "rank": 24,
+    "cumulative_rcts": 352,
+    "cumulative_percent": 91.66666666666667,
+    "rct_share_percent": 0.78125
+  },
+  {
+    "corpus": "swrd",
+    "source": "Social Work Education",
+    "n": 2070,
+    "rct": 3,
+    "rate_per_1000": 1.4492753623188406,
+    "ci95": [
+      0.49300410190395055,
+      4.252517200525092
+    ],
+    "individual": 3,
+    "cluster": 0,
+    "rank": 25,
+    "cumulative_rcts": 355,
+    "cumulative_percent": 92.44791666666667,
+    "rct_share_percent": 0.78125
+  },
+  {
+    "corpus": "swrd",
+    "source": "Asian Social Work and Policy Review",
+    "n": 357,
+    "rct": 2,
+    "rate_per_1000": 5.602240896358543,
+    "ci95": [
+      1.5376833439371493,
+      20.19335290206869
+    ],
+    "individual": 2,
+    "cluster": 0,
+    "rank": 26,
+    "cumulative_rcts": 357,
+    "cumulative_percent": 92.96875,
+    "rct_share_percent": 0.5208333333333334
+  },
+  {
+    "corpus": "swrd",
+    "source": "Clinical Social Work Journal",
+    "n": 1204,
+    "rct": 2,
+    "rate_per_1000": 1.6611295681063123,
+    "ci95": [
+      0.4556599026371458,
+      6.036465999673186
+    ],
+    "individual": 2,
+    "cluster": 0,
+    "rank": 27,
+    "cumulative_rcts": 359,
+    "cumulative_percent": 93.48958333333333,
+    "rct_share_percent": 0.5208333333333334
+  },
+  {
+    "corpus": "swrd",
+    "source": "International Journal of Social Welfare",
+    "n": 1181,
+    "rct": 2,
+    "rate_per_1000": 1.6934801016088061,
+    "ci95": [
+      0.4645362381410032,
+      6.1536140319372805
+    ],
+    "individual": 1,
+    "cluster": 1,
+    "rank": 28,
+    "cumulative_rcts": 361,
+    "cumulative_percent": 94.01041666666667,
+    "rct_share_percent": 0.5208333333333334
+  },
+  {
+    "corpus": "swrd",
+    "source": "Journal of Ethnic & Cultural Diversity in Social Work",
+    "n": 480,
+    "rct": 2,
+    "rate_per_1000": 4.166666666666667,
+    "ci95": [
+      1.1433949532137708,
+      15.063274975003514
+    ],
+    "individual": 2,
+    "cluster": 0,
+    "rank": 29,
+    "cumulative_rcts": 363,
+    "cumulative_percent": 94.53125,
+    "rct_share_percent": 0.5208333333333334
+  },
+  {
+    "corpus": "swrd",
+    "source": "Journal of Social Work Education",
+    "n": 1889,
+    "rct": 2,
+    "rate_per_1000": 1.0587612493382743,
+    "ci95": [
+      0.2903985562222107,
+      3.8522932599109936
+    ],
+    "individual": 2,
+    "cluster": 0,
+    "rank": 30,
+    "cumulative_rcts": 365,
+    "cumulative_percent": 95.05208333333333,
+    "rct_share_percent": 0.5208333333333334
+  },
+  {
+    "corpus": "swrd",
+    "source": "Journal of Social Work Practice in the Addictions",
+    "n": 546,
+    "rct": 2,
+    "rate_per_1000": 3.663003663003663,
+    "ci95": [
+      1.005103148438642,
+      13.256205625025931
+    ],
+    "individual": 1,
+    "cluster": 1,
+    "rank": 31,
+    "cumulative_rcts": 367,
+    "cumulative_percent": 95.57291666666667,
+    "rct_share_percent": 0.5208333333333334
+  },
+  {
+    "corpus": "swrd",
+    "source": "School Social Work Journal",
+    "n": 347,
+    "rct": 2,
+    "rate_per_1000": 5.763688760806916,
+    "ci95": [
+      1.5820369918698765,
+      20.768396868062535
+    ],
+    "individual": 2,
+    "cluster": 0,
+    "rank": 32,
+    "cumulative_rcts": 369,
+    "cumulative_percent": 96.09375,
+    "rct_share_percent": 0.5208333333333334
+  },
+  {
+    "corpus": "swrd",
+    "source": "Social Work with Groups",
+    "n": 980,
+    "rct": 2,
+    "rate_per_1000": 2.0408163265306123,
+    "ci95": [
+      0.5598439687972603,
+      7.410402406155758
+    ],
+    "individual": 2,
+    "cluster": 0,
+    "rank": 33,
+    "cumulative_rcts": 371,
+    "cumulative_percent": 96.61458333333333,
+    "rct_share_percent": 0.5208333333333334
+  },
+  {
+    "corpus": "swrd",
+    "source": "Advances in Social Work",
+    "n": 756,
+    "rct": 1,
+    "rate_per_1000": 1.3227513227513228,
+    "ci95": [
+      0.23353626191635266,
+      7.45419747896206
+    ],
+    "individual": 1,
+    "cluster": 0,
+    "rank": 34,
+    "cumulative_rcts": 372,
+    "cumulative_percent": 96.875,
+    "rct_share_percent": 0.2604166666666667
+  },
+  {
+    "corpus": "swrd",
+    "source": "Affilia-Feminist Inquiry in Social Work",
+    "n": 1825,
+    "rct": 1,
+    "rate_per_1000": 0.547945205479452,
+    "ci95": [
+      0.09673233281166775,
+      3.0973437816159426
+    ],
+    "individual": 1,
+    "cluster": 0,
+    "rank": 35,
+    "cumulative_rcts": 373,
+    "cumulative_percent": 97.13541666666667,
+    "rct_share_percent": 0.2604166666666667
+  },
+  {
+    "corpus": "swrd",
+    "source": "Aotearoa New Zealand Social Work",
+    "n": 220,
+    "rct": 1,
+    "rate_per_1000": 4.545454545454546,
+    "ci95": [
+      0.8028354798775024,
+      25.293576022575063
+    ],
+    "individual": 1,
+    "cluster": 0,
+    "rank": 36,
+    "cumulative_rcts": 374,
+    "cumulative_percent": 97.39583333333333,
+    "rct_share_percent": 0.2604166666666667
+  },
+  {
+    "corpus": "swrd",
+    "source": "Canadian Social Work Review",
+    "n": 563,
+    "rct": 1,
+    "rate_per_1000": 1.7761989342806395,
+    "ci95": [
+      0.3136115657168606,
+      9.991666444200057
+    ],
+    "individual": 1,
+    "cluster": 0,
+    "rank": 37,
+    "cumulative_rcts": 375,
+    "cumulative_percent": 97.65625,
+    "rct_share_percent": 0.2604166666666667
+  },
+  {
+    "corpus": "swrd",
+    "source": "China Journal of Social Work",
+    "n": 277,
+    "rct": 1,
+    "rate_per_1000": 3.6101083032490973,
+    "ci95": [
+      0.6375572693776803,
+      20.162287757861193
+    ],
+    "individual": 1,
+    "cluster": 0,
+    "rank": 38,
+    "cumulative_rcts": 376,
+    "cumulative_percent": 97.91666666666667,
+    "rct_share_percent": 0.2604166666666667
+  },
+  {
+    "corpus": "swrd",
+    "source": "International Social Work",
+    "n": 1777,
+    "rct": 1,
+    "rate_per_1000": 0.5627462014631401,
+    "ci95": [
+      0.09934543066078615,
+      3.1808223752720606
+    ],
+    "individual": 1,
+    "cluster": 0,
+    "rank": 39,
+    "cumulative_rcts": 377,
+    "cumulative_percent": 98.17708333333333,
+    "rct_share_percent": 0.2604166666666667
+  },
+  {
+    "corpus": "swrd",
+    "source": "Journal of Community Practice",
+    "n": 740,
+    "rct": 1,
+    "rate_per_1000": 1.3513513513513513,
+    "ci95": [
+      0.23858653810885982,
+      7.614510047762177
+    ],
+    "individual": 0,
+    "cluster": 1,
+    "rank": 40,
+    "cumulative_rcts": 378,
+    "cumulative_percent": 98.4375,
+    "rct_share_percent": 0.2604166666666667
+  },
+  {
+    "corpus": "swrd",
+    "source": "Journal of Social Work in Disability & Rehabilitation",
+    "n": 275,
+    "rct": 1,
+    "rate_per_1000": 3.6363636363636362,
+    "ci95": [
+      0.6421961356207172,
+      20.306836498907312
+    ],
+    "individual": 1,
+    "cluster": 0,
+    "rank": 41,
+    "cumulative_rcts": 379,
+    "cumulative_percent": 98.69791666666667,
+    "rct_share_percent": 0.2604166666666667
+  },
+  {
+    "corpus": "swrd",
+    "source": "Journal of Teaching in Social Work",
+    "n": 1034,
+    "rct": 1,
+    "rate_per_1000": 0.9671179883945842,
+    "ci95": [
+      0.1707404768936387,
+      5.457728853414107
+    ],
+    "individual": 1,
+    "cluster": 0,
+    "rank": 42,
+    "cumulative_rcts": 380,
+    "cumulative_percent": 98.95833333333333,
+    "rct_share_percent": 0.2604166666666667
+  },
+  {
+    "corpus": "swrd",
+    "source": "Nordic Social Work Research",
+    "n": 445,
+    "rct": 1,
+    "rate_per_1000": 2.247191011235955,
+    "ci95": [
+      0.3967945939848602,
+      12.617731372583005
+    ],
+    "individual": 0,
+    "cluster": 1,
+    "rank": 43,
+    "cumulative_rcts": 381,
+    "cumulative_percent": 99.21875,
+    "rct_share_percent": 0.2604166666666667
+  },
+  {
+    "corpus": "swrd",
+    "source": "Social Work & Social Sciences Review",
+    "n": 220,
+    "rct": 1,
+    "rate_per_1000": 4.545454545454546,
+    "ci95": [
+      0.8028354798775024,
+      25.293576022575063
+    ],
+    "individual": 0,
+    "cluster": 1,
+    "rank": 44,
+    "cumulative_rcts": 382,
+    "cumulative_percent": 99.47916666666667,
+    "rct_share_percent": 0.2604166666666667
+  },
+  {
+    "corpus": "swrd",
+    "source": "The Journal of Sociology & Social Welfare",
+    "n": 2015,
+    "rct": 1,
+    "rate_per_1000": 0.49627791563275436,
+    "ci95": [
+      0.08761061052663588,
+      2.8058601943113097
+    ],
+    "individual": 1,
+    "cluster": 0,
+    "rank": 45,
+    "cumulative_rcts": 383,
+    "cumulative_percent": 99.73958333333333,
+    "rct_share_percent": 0.2604166666666667
+  },
+  {
+    "corpus": "swrd",
+    "source": "Urban Social Work",
+    "n": 86,
+    "rct": 1,
+    "rate_per_1000": 11.627906976744185,
+    "ci95": [
+      2.0555686652495644,
+      62.964065892917255
+    ],
+    "individual": 1,
+    "cluster": 0,
+    "rank": 46,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.2604166666666667
+  },
+  {
+    "corpus": "swrd",
+    "source": "Abolitionist Perspectives in Social Work",
+    "n": 13,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      228.0953723541984
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 47,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Administration in Social Work",
+    "n": 447,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      8.520642335650695
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 48,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "African Journal of Social Work",
+    "n": 230,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      16.427620833650778
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 49,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Arete",
+    "n": 199,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      18.938233056634942
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 50,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "ASEAN Social Work Journal",
+    "n": 55,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      65.28490111708638
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 51,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Australian Social Work",
+    "n": 1059,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      3.6143291069549783
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 52,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Columbia Social Work Review",
+    "n": 137,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      1.734723475976807e-15,
+      27.275057024116055
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 53,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Contemporary Rural Social Work",
+    "n": 215,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      17.553615486732756
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 54,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Critical and Radical Social Work",
+    "n": 318,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      11.935873130733905
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 55,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Critical Social Work",
+    "n": 261,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      14.50474875723635
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 56,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Ethics & Social Welfare",
+    "n": 203,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      1.734723475976807e-15,
+      18.571996361832827
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 57,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Global Social Work / Trabajo Social Global",
+    "n": 237,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      15.95015592209181
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 58,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Hong Kong Journal of Social Work",
+    "n": 206,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      18.306481675656787
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 59,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Indian Journal of Social Work",
+    "n": 1093,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      3.5022917759002277
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 60,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "International Journal of Social Work Values and Ethics",
+    "n": 80,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      45.8181295355271
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 61,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Journal of Comparative Social Work",
+    "n": 291,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      8.673617379884035e-16,
+      13.02889639760697
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 62,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Journal of Family Social Work",
+    "n": 620,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      6.157748521484921
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 63,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Journal of Forensic Social Work",
+    "n": 110,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      33.74393529816418
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 64,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Journal of Human Rights and Social Work",
+    "n": 344,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      11.04370604274152
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 65,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Journal of International and Comparative Social Policy",
+    "n": 31,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      110.25539546043596
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 66,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Journal of Practice Teaching and Learning",
+    "n": 66,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      55.002557013541285
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 67,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Journal of Progressive Human Services",
+    "n": 335,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      11.33703896230397
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 68,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Journal of Religion & Spirituality in Social Work",
+    "n": 591,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      4.3368086899420177e-16,
+      6.457954071173902
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 69,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Journal of Social Work",
+    "n": 798,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      4.790795959021549
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 70,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Journal of Social Work Education and Practice",
+    "n": 154,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      24.33745132232954
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 71,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Journal of Social Work Practice",
+    "n": 1070,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      3.577305373283746
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 72,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Journal of Social Work Research and Evaluation",
+    "n": 98,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      3.469446951953614e-15,
+      37.7199901216806
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 73,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Practice: Social Work in Action",
+    "n": 176,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      21.360251667687727
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 74,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Professional Development: The International Journal of Continuing Social Work Education",
+    "n": 210,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      -1.734723475976807e-15,
+      17.964050759283236
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 75,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Psychoanalytic Social Work",
+    "n": 377,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      8.673617379884035e-16,
+      10.086766374095689
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 76,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Qualitative Social Work",
+    "n": 1020,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      2.1684043449710089e-16,
+      3.7520055352309014
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 77,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Reflections: Narratives of Professional Helping",
+    "n": 1027,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      3.726527282952745
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 78,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Sexual and Gender Diversity in Social Services",
+    "n": 978,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      3.9125041891265875
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 79,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Social Development Issues",
+    "n": 273,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      13.876024339194723
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 80,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Social Work & Christianity",
+    "n": 22,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      148.65487460862087
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 81,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Social Work and Society",
+    "n": 670,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      4.3368086899420177e-16,
+      5.700834774127958
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 82,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Social Work Research & Abstracts",
+    "n": 33,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      104.26999754245206
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 83,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Social Work-Maatskaplike Werk",
+    "n": 925,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      4.135752968619039
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 84,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Southern African Journal of Social Work and Social Development",
+    "n": 206,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      18.306481675656787
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 85,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "Studies in Clinical Social Work: Transforming Practice, Education and Research",
+    "n": 609,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      6.268275041454179
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 86,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "The Jewish Social Work Forum",
+    "n": 27,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      124.55502974186705
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 87,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  },
+  {
+    "corpus": "swrd",
+    "source": "The Journal of Baccalaureate Social Work",
+    "n": 339,
+    "rct": 0,
+    "rate_per_1000": 0.0,
+    "ci95": [
+      0.0,
+      11.204767456969684
+    ],
+    "individual": 0,
+    "cluster": 0,
+    "rank": 88,
+    "cumulative_rcts": 384,
+    "cumulative_percent": 100.0,
+    "rct_share_percent": 0.0
+  }
+]

@@ -6,6 +6,8 @@ All records both models called RCTs and all records only one model called RCTs w
 
 The original workbench comprises 748 journal and 874 conference IDs. These are source-record counts, not a guarantee that all are distinct articles. Current author-accepted labels and original membership flags are retained in [reference coding](../data/reference_coding.jsonl). A separate [additional decision](../data/additional_reference_coding.jsonl) is not added to the sampling denominators. Original per-condition answers are not reconstructed as newly completed C1–C5 fields.
 
-An insufficient abstract is a cleaning exclusion, not a negative study-design classification. UNCERTAIN is an interim review status; the retained classifiable records have substantive labels. Newly detected duplicate identities or conflicting retained labels are recorded in [quality review](DATA_QUALITY_STATUS.md) rather than silently recoded.
+An insufficient abstract is a cleaning exclusion, not a negative study-design classification. UNCERTAIN is an interim review status; the retained classifiable records have substantive labels. Known duplicate identities and reference-label conflicts were reconciled in the frozen version and are recorded in [quality review](DATA_QUALITY_STATUS.md).
 
 The current manuscript evaluates screening against these final human classifications by screening group. Earlier enriched reference benchmarks and superseded interpretations are not part of the active analysis materials. A [blank review form](REVIEW_FORM.md) is provided for reuse and does not imply that every historical field was completed.
+
+Current frozen counts and the original-versus-cleaned worklist denominators are in [Count flow](COUNT_FLOW.md). Final source flags and category decisions are in the frozen record file; source duplicate flags alone are not the full cleaning procedure.

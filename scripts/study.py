@@ -1,4 +1,5 @@
 """Retained category decisions and descriptive snapshot statistics; identity QC is external."""
+import gzip
 import json
 import math
 from collections import Counter, defaultdict
@@ -10,7 +11,7 @@ PERIODS={'swrd':[(1989,1999),(2000,2009),(2010,2019),(2020,2025)],
          'sswr':[(2005,2009),(2010,2014),(2015,2019),(2020,2026)]}
 
 def read_jsonl(path):
-    with Path(path).open(encoding='utf-8') as f:
+    with (gzip.open(path, 'rt', encoding='utf-8') if str(path).endswith('.gz') else Path(path).open(encoding='utf-8')) as f:
         return [json.loads(line) for line in f if line.strip()]
 
 def consensus(a,b):

@@ -1,3 +1,3 @@
-# Tables
+# Frozen tables
 
-Final manuscript outputs are withheld pending the [bibliographic identity review](../docs/DATA_QUALITY_STATUS.md). Superseded generated files have been removed from the active branch. Explicitly provisional summaries can be generated locally using the commands in the [repository README](../README.md); they are not a final statistical release.
+Tables 1–3 and supplementary distributions use the current frozen analysis. Table 1 retains original model-A screening yields; the other tables use cleaned denominators.

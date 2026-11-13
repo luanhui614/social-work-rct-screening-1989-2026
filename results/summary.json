@@ -1,0 +1,40 @@
+{
+  "totals": {
+    "swrd": {
+      "n": 63803,
+      "rct": 384,
+      "rate_per_1000": 6.018525774650095,
+      "ci95": [
+        5.447394634304668,
+        6.649136727756576
+      ],
+      "individual": 351,
+      "cluster": 33,
+      "raw_screened": 65290,
+      "binary_model_agreement": 0.9989028729056627,
+      "binary_model_kappa": 0.915516252387884,
+      "agreement_denominator": "retained_source_records"
+    },
+    "sswr": {
+      "n": 23772,
+      "rct": 559,
+      "rate_per_1000": 23.515059734141005,
+      "ci95": [
+        21.664375801853886,
+        25.51971485435705
+      ],
+      "individual": 474,
+      "cluster": 85,
+      "raw_screened": 23793,
+      "binary_model_agreement": 0.9976863536934208,
+      "binary_model_kappa": 0.9495769190898258,
+      "agreement_denominator": "retained_source_records"
+    }
+  },
+  "journal_count": 88,
+  "journals_with_rct": 46,
+  "journals_without_rct": 42,
+  "top2_rcts": 188,
+  "top15_rcts": 318,
+  "conference_to_journal_rate_ratio": 3.9071129068161423
+}

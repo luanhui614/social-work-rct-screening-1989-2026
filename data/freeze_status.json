@@ -1,0 +1,27 @@
+{
+  "version": "screening-human-adjudication-final-2026-11-13-v6",
+  "status": "frozen",
+  "date": "2026-11-13",
+  "eligibility_authority": "Brian manuscript five criteria and seven labels; latest direct author adjudications",
+  "raw_journal_n": 65290,
+  "raw_conference_n": 23793,
+  "clean_journal_n": 63803,
+  "clean_conference_n": 23772,
+  "journal_rct_n": 384,
+  "conference_rct_n": 559,
+  "original_reference_source_ids": 1622,
+  "clean_reference_records": 1612,
+  "bibliography_candidate_groups": 662,
+  "additional_duplicate_records": 614,
+  "identity_policy": "Merge corroborated duplicate indexing; retain distinct DOI/issue republications, recurring notices and records lacking sufficient evidence for merger. Repetition of a trial across conference years is retained.",
+  "reference_label_conflicts_pending": 0,
+  "source_ids_preserved": true,
+  "source_abstracts_redistributed": false,
+  "interval_scope": "Wilson intervals describe identified-report proportions, not screening-error or overall sensitivity uncertainty.",
+  "linkage_indeterminate_identity_reports": 9,
+  "python_version": "3.12.14",
+  "inputs": {
+    "archive/github_release_before_2026-11-13/data/record_level_results.jsonl": "490b72142935a1cb4df20c1fd680202b9e50b08d89880b099d1e9979827d7068"
+  },
+  "outputs_certification": "Operational cleaning, recorded human decisions and internal arithmetic reconciled; not a claim of exhaustive external bibliographic or full-text eligibility validation."
+}

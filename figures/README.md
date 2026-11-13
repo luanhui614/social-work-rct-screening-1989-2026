@@ -1,3 +1,3 @@
-# Figures
+# Frozen figures
 
-Final manuscript outputs are withheld pending the [bibliographic identity review](../docs/DATA_QUALITY_STATUS.md). Superseded generated files have been removed from the active branch. Explicitly provisional summaries can be generated locally using the commands in the [repository README](../README.md); they are not a final statistical release.
+Figures 1–3 retain the manuscript panel layouts. PNG and PDF files are paired with their numerical source data under `source_data/`. These are descriptive report-level figures, not distinct-trial counts.

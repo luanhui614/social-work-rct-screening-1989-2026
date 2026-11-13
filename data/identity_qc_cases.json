@@ -1,5 +1,5 @@
 {
-  "status": "open_identity_quality_review",
+  "status": "resolved_in_final_freeze",
   "as_of": "2026-11-13",
   "cases": [
     {
@@ -14,7 +14,9 @@
       "doi": "10.1093/swr/19.3.131",
       "source_url": "https://academic.oup.com/swr/article-abstract/19/3/131/1621627",
       "label_issue": null,
-      "status": "identity_confirmed_merge_not_applied"
+      "status": "resolved_final_freeze",
+      "final_label": "INDIVIDUAL",
+      "resolution": "Same-article source IDs consolidated; latest author classification applied. See duplicate_article_mapping.json."
     },
     {
       "case_id": "J-DUP-002",
@@ -28,7 +30,9 @@
       "doi": "10.1300/J079v21n01_04",
       "source_url": "https://experts.illinois.edu/en/publications/housing-the-homeless-mentally-ill-findings-from-chicago/",
       "label_issue": "INDIVIDUAL versus CLUSTER within one article",
-      "status": "identity_confirmed_label_reconciliation_pending"
+      "status": "resolved_final_freeze",
+      "final_label": "INDIVIDUAL",
+      "resolution": "Same-article source IDs consolidated; latest author classification applied. See duplicate_article_mapping.json."
     },
     {
       "case_id": "J-DUP-003",
@@ -42,7 +46,9 @@
       "doi": "10.1300/J079v20n01_07",
       "source_url": "https://cris.huji.ac.il/en/publications/problem-specificity-and-use-of-problem-solving-strategies/",
       "label_issue": "Check compatibility of retained eligibility with the manuscript exclusion of randomized-stimulus analogue tasks",
-      "status": "identity_confirmed_eligibility_check_pending"
+      "status": "resolved_final_freeze",
+      "final_label": "OTHER",
+      "resolution": "Same-article source IDs consolidated; latest author classification applied. See duplicate_article_mapping.json."
     },
     {
       "case_id": "J-ID-004",
@@ -56,10 +62,14 @@
       "doi": "10.1300/J079v13n02_06",
       "source_url": null,
       "label_issue": "INDIVIDUAL versus OTHER; abstracts differ in explicit random-allocation wording",
-      "status": "bibliographic_identity_check_pending"
+      "status": "resolved_final_freeze",
+      "final_label": "INDIVIDUAL",
+      "resolution": "Same-article source IDs consolidated; latest author classification applied. See duplicate_article_mapping.json."
     }
   ],
   "additional_title_groups": 520,
   "additional_title_groups_with_matching_normalized_abstracts": 271,
-  "candidate_counts_note": "271 is a subset of 520, not additional exclusions. Candidate groups are not automatic deletions. The typo-title case and near-title case were found by supplementary checks."
+  "candidate_counts_note": "271 is a subset of 520, not additional exclusions. Candidate groups are not automatic deletions. The typo-title case and near-title case were found by supplementary checks.",
+  "reviewed_bibliographic_candidate_comparisons": 662,
+  "additional_duplicate_records_removed": 614
 }

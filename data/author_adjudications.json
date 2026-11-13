@@ -1,0 +1,38 @@
+[
+  {
+    "ids": [
+      "25098",
+      "73534"
+    ],
+    "keep": "73534",
+    "label": "INDIVIDUAL",
+    "basis": "Confirmed duplicate article; original identical labels retained"
+  },
+  {
+    "ids": [
+      "33736",
+      "82759"
+    ],
+    "keep": "82759",
+    "label": "INDIVIDUAL",
+    "basis": "Author adjudication: INDIVIDUAL; confirmed same article"
+  },
+  {
+    "ids": [
+      "34120",
+      "82763"
+    ],
+    "keep": "82763",
+    "label": "OTHER",
+    "basis": "Author final coding: OTHER; confirmed same article"
+  },
+  {
+    "ids": [
+      "82865",
+      "122194"
+    ],
+    "keep": "82865",
+    "label": "INDIVIDUAL",
+    "basis": "Author final coding: INDIVIDUAL and same article"
+  }
+]

@@ -1,10 +1,10 @@
 cff-version: 1.2.0
-message: "Methods and retained data snapshot; final statistical results are pending identity reconciliation. Please cite the study manuscript and upstream databases when using these materials."
+message: "Cite the study manuscript and this frozen research-materials repository."
 title: "Social work RCT screening and verification, 1989–2026"
 type: software
 authors:
   - name: "luanhui614"
-version: "1.2.0-dev"
+version: "2.0.0"
 date-released: "2026-11-13"
 repository-code: "https://github.com/luanhui614/social-work-rct-screening-1989-2026"
 url: "https://github.com/luanhui614/social-work-rct-screening-1989-2026"

@@ -1,25 +1,27 @@
-# Record-level data dictionary
+# Data dictionary
 
-The retained `data/record_level_results.jsonl` contains 89,083 source IDs. This preserves original model calls, latest accepted human categories and existing source cleaning flags. It is a source-record snapshot, not a fully deduplicated publication list. Read [release status](../RELEASE_STATUS.json) before interpreting fields with legacy names such as `final_reference_label`.
+The main JSONL file is gzip-compressed; Python `gzip.open(path, "rt")` reads one JSON object per line. Original source IDs are unique within `corpus`. They are retained even when duplicate publication indices are excluded.
 
 |Field|Meaning|
 |---|---|
-|corpus|swrd or sswr; keep corpora separate|
-|record_id|Original source identifier as a string; uniqueness of this ID does not establish unique publication identity|
-|year|Source publication/conference year; bibliographic year reconciliation is pending for duplicate groups|
-|source_name_or_format|Source journal name or conference format|
-|doi|Source identifier where supplied; some source values are non-DOI identifiers and must not be silently treated as valid DOI registrations|
-|model_a_label / model_b_label|Original seven-category model outputs|
-|screening_group|concordant_positive / discordant / concordant_negative, based on binary RCT calls|
-|is_duplicate|Existing upstream duplicate-index flag; excludes those flagged records but is not an exhaustive identity check|
-|insufficient_abstract|Author-designated insufficient abstract, excluded during cleaning rather than labeled non-RCT|
-|in_original_audit|Membership in the historical 1,622-ID verification workbench|
-|sample_membership|confirmed / disagree / boundary / keyword, retaining overlapping selection reasons|
-|final_reference_label|Latest author-accepted substantive label retained in this snapshot; null for unreviewed negatives or the unclassifiable abstract. It is not an assurance that the source ID is a unique publication|
-|reference_status|Legacy snapshot classification status. `final_reference` refers to the retained categorical decision; global publication status remains pending identity reconciliation|
+|corpus|`swrd` journal or `sswr` conference|
+|record_id|Original source ID|
+|year / original_year|Analysis publication year / original source year|
+|source_name_or_format|Source journal or conference presentation format|
+|doi|Source DOI or source identifier; a legacy non-DOI identifier must not be presented as a DOI|
+|model_a_label / model_b_label|Unmodified original seven-category model calls|
+|screening_group|`concordant_positive`, `discordant`, `concordant_negative`, using RCT versus non-RCT calls|
+|original_is_duplicate|Original source duplicate flag|
+|is_duplicate|Final duplicate-index exclusion, incorporating bibliographic checks|
+|insufficient_abstract|Author-designated cleaning exclusion for inadequate abstract information|
+|cleaning_exclusion_reason|Source duplicate flag, additional corroborated duplicate, insufficient abstract or null|
+|analysis_record_id|Retained article/source representative; excluded source-flag duplicates or insufficient abstracts can be null|
+|in_original_audit|Membership in the original 1,622-source-ID worklist|
+|sample_membership|Original workbench section flags; not a new sample draw|
+|final_reference_label|Latest accepted seven-category reference decision; null for unreviewed concordant negatives or excluded insufficient information|
+|reference_status|Reference provenance, same-article inheritance or model-negative-not-reviewed state|
+|freeze_version|Final frozen analysis version|
 
-`reference_coding.jsonl` retains the 1,622 workbench records. `additional_reference_coding.jsonl` retains a purpose-specific author decision outside that workbench. No human label or evidence quote has been invented to fill missing information.
+Duplicate-article mapping retains each source ID, retained representative, original and analysis years, final category and identity-decision IDs. A verified source record is prioritized, followed by abstract completeness, a matching registered DOI and source ID; category and model outcome are not selection criteria. Reference classifications can be inherited within a corroborated same-article group, which does not mean each index version was independently read by a human.
 
-`identity_qc_cases.json` records known duplicate identities, conflicting labels and pending actions. It is a review sidecar: no unresolved conflict is silently converted into a new final label or exclusion.
-
-`linkage_pair_assessments.jsonl` contains recorded assessed pairs, not all retrieved candidates. Relations are SAME, RELATED, DIFFERENT, INDETERMINATE or NOT_ELIGIBLE_OUTCOME. `assessment_basis` documents that selected full texts and project materials supplemented identity checks. `author_adjudicated` identifies an explicit retained author decision; it does not claim universal independent double-human validation. `linkage_record_outcomes.jsonl` is the report-level aggregation of the current pair snapshot.
+Linkage pairs use SAME, RELATED, DIFFERENT, INDETERMINATE or NOT_ELIGIBLE_OUTCOME. The `author_adjudicated` flag identifies explicitly recorded author pair decisions. Conference outcomes prioritize SAME, then INDETERMINATE, then RELATED_ONLY, then NOT_IDENTIFIED. Counts of assessed pairs, conference reports and different journal article IDs are separate units.

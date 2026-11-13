@@ -1,4 +1,4 @@
-name: Verify methods and provisional snapshot
+name: Verify frozen screening and human adjudication results
 on: [push, pull_request, workflow_dispatch]
 permissions:
   contents: read
@@ -11,14 +11,7 @@ jobs:
         with:
           python-version: '3.12'
       - run: python scripts/verify.py --snapshot
-      - run: python scripts/reproduce.py --allow-provisional
+      - run: python scripts/reproduce.py
       - run: python scripts/export_review_worklist.py
       - run: python scripts/verify.py --generated
-      - name: Confirm final publication remains blocked
-        shell: bash
-        run: |
-          set +e
-          python scripts/check_release_status.py
-          release_status=$?
-          set -e
-          test "$release_status" -eq 2
+      - run: python scripts/check_release_status.py
