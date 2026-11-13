@@ -11,3 +11,5 @@ raw/
 *.zip
 *.bundle
 *.log
+
+.provisional_results/

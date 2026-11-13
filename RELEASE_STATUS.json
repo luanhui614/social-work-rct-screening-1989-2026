@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "updated": "2026-11-13",
+  "documentation_version": "1.2.0-dev",
+  "analysis_status": "pending_bibliographic_deduplication",
+  "final_results_available": false,
+  "labels_policy": "Preserve latest author-accepted categorical decisions; do not automatically recode or merge conflicting decisions.",
+  "known_issues_file": "data/identity_qc_cases.json",
+  "scope": "Current methods and retained screening/reference snapshots are available; final journal counts, denominators, derived estimates and figures require record-identity reconciliation.",
+  "superseded_releases": [
+    "v1.0.0",
+    "v1.1.0"
+  ],
+  "historical_release_note": "Earlier releases preserve historical snapshots and must not be cited as the final manuscript dataset.",
+  "original_inference_runner_recovered": false,
+  "original_sampling_generator_recovered": false,
+  "raw_abstracts_redistributed": false,
+  "new_license_assigned": false,
+  "repository_doi": null
+}

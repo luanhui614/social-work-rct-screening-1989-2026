@@ -1,4 +1,4 @@
-"""Final decision rules and descriptive statistics for report-level screening."""
+"""Retained category decisions and descriptive snapshot statistics; identity QC is external."""
 import json
 import math
 from collections import Counter, defaultdict
@@ -51,10 +51,10 @@ def analyze(rows):
     for c in ['swrd','sswr']:
         raw=[r for r in rows if r['corpus']==c];rs=[r for r in clean if r['corpus']==c]
         totals[c]=describe(rs);totals[c]['raw_screened']=len(raw)
-        disagreements=sum(consensus(r['model_a_label'],r['model_b_label'])=='discordant' for r in raw)
-        pa=sum(r['model_a_label'] in RCT for r in raw)/len(raw);pb=sum(r['model_b_label'] in RCT for r in raw)/len(raw)
-        po=1-disagreements/len(raw);pe=pa*pb+(1-pa)*(1-pb)
-        totals[c].update(binary_model_agreement=po,binary_model_kappa=(po-pe)/(1-pe))
+        disagreements=sum(consensus(r['model_a_label'],r['model_b_label'])=='discordant' for r in rs)
+        pa=sum(r['model_a_label'] in RCT for r in rs)/len(rs);pb=sum(r['model_b_label'] in RCT for r in rs)/len(rs)
+        po=1-disagreements/len(rs);pe=pa*pb+(1-pa)*(1-pb)
+        totals[c].update(binary_model_agreement=po,binary_model_kappa=(po-pe)/(1-pe),agreement_denominator='retained_source_records')
         ys=sorted({r['year'] for r in rs});yearly={y:describe([r for r in rs if r['year']==y]) for y in ys}
         for y in ys:
             annual.append(dict(corpus=c,year=y,**yearly[y],indexing_incomplete=c=='swrd' and y>=2024,
@@ -84,7 +84,9 @@ def analyze(rows):
 def aggregate_links(conferences,pairs):
     """Aggregate recorded assessments; candidate rank alone is not a decision."""
     by=defaultdict(list)
-    for r in pairs:by[r['conference_record_id']].append(r)
+    for r in pairs:
+        if r['relation'] not in {'SAME','RELATED','DIFFERENT','INDETERMINATE','NOT_ELIGIBLE_OUTCOME'}:raise ValueError('Unknown linkage relation')
+        by[r['conference_record_id']].append(r)
     out=[]
     for c in conferences:
         ps=by[c['record_id']];same=[r for r in ps if r['relation']=='SAME'];related=[r for r in ps if r['relation']=='RELATED'];pending=[r for r in ps if r['relation']=='INDETERMINATE']

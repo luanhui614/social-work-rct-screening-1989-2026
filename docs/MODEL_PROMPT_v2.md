@@ -1,6 +1,6 @@
 # Initial model screening prompt (v2)
 
-This is the documented prompt used for the initial dual-model screen. Final reference coding uses CODEBOOK_v1.3.md. Model suggestions do not override final adjudication.
+This is the exact prompt documented for the dual-model screen. The manuscript eligibility criteria and seven category definitions are summarized in [the codebook](CODEBOOK.md). Final human decisions, not a model call alone, determine reviewed eligibility. The text below is preserved verbatim as a reproducibility input.
 
 ## System prompt
 

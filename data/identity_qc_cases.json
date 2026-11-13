@@ -1,0 +1,65 @@
+{
+  "status": "open_identity_quality_review",
+  "as_of": "2026-11-13",
+  "cases": [
+    {
+      "case_id": "J-DUP-001",
+      "corpus": "swrd",
+      "record_ids": [
+        "25098",
+        "73534"
+      ],
+      "issue": "duplicate_indexing_confirmed",
+      "title": "Preventing HIV/AIDS in drug-abusing incarcerated women through skills building and social support enhancement: Preliminary outcomes",
+      "doi": "10.1093/swr/19.3.131",
+      "source_url": "https://academic.oup.com/swr/article-abstract/19/3/131/1621627",
+      "label_issue": null,
+      "status": "identity_confirmed_merge_not_applied"
+    },
+    {
+      "case_id": "J-DUP-002",
+      "corpus": "swrd",
+      "record_ids": [
+        "33736",
+        "82759"
+      ],
+      "issue": "duplicate_indexing_confirmed",
+      "title": "Housing the homeless mentally ill: Findings from Chicago",
+      "doi": "10.1300/J079v21n01_04",
+      "source_url": "https://experts.illinois.edu/en/publications/housing-the-homeless-mentally-ill-findings-from-chicago/",
+      "label_issue": "INDIVIDUAL versus CLUSTER within one article",
+      "status": "identity_confirmed_label_reconciliation_pending"
+    },
+    {
+      "case_id": "J-DUP-003",
+      "corpus": "swrd",
+      "record_ids": [
+        "34120",
+        "82763"
+      ],
+      "issue": "duplicate_indexing_confirmed",
+      "title": "Problem specificity and use of problem-solving strategies",
+      "doi": "10.1300/J079v20n01_07",
+      "source_url": "https://cris.huji.ac.il/en/publications/problem-specificity-and-use-of-problem-solving-strategies/",
+      "label_issue": "Check compatibility of retained eligibility with the manuscript exclusion of randomized-stimulus analogue tasks",
+      "status": "identity_confirmed_eligibility_check_pending"
+    },
+    {
+      "case_id": "J-ID-004",
+      "corpus": "swrd",
+      "record_ids": [
+        "82865",
+        "122194"
+      ],
+      "issue": "possible_duplicate_indexing",
+      "title": "The effect of process and structured content on outcome in stress management",
+      "doi": "10.1300/J079v13n02_06",
+      "source_url": null,
+      "label_issue": "INDIVIDUAL versus OTHER; abstracts differ in explicit random-allocation wording",
+      "status": "bibliographic_identity_check_pending"
+    }
+  ],
+  "additional_title_groups": 520,
+  "additional_title_groups_with_matching_normalized_abstracts": 271,
+  "candidate_counts_note": "271 is a subset of 520, not additional exclusions. Candidate groups are not automatic deletions. The typo-title case and near-title case were found by supplementary checks."
+}

@@ -27,5 +27,10 @@
     }
   ],
   "extracts_are": "Study methods and aggregate design metadata; not raw abstracts or original manuscript",
-  "source_report_model_names_retained_verbatim": true
+  "source_report_model_names_retained_verbatim": true,
+  "original_written_criteria": {
+    "filename": "CODEBOOK.md (supplied research package)",
+    "sha256": "950e0401f0bf02671735bd5fd12a3a680fb97183d0ae814ccae8be750ec8c259",
+    "role": "Original written eligibility criteria and later-timepoint clarification; pilot execution settings are not used as final-run configuration."
+  }
 }

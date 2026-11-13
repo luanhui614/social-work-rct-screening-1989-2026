@@ -1,4 +1,4 @@
-# Targeted concordant-negative audit
+# Verification of records both models classified as non-trials
 
 Source: Brian's classification report, section 12 and embedded `review` objects; original workbench membership is retained in the public data. [Original design metadata](../materials/original_review_design.json) preserve the source-reported values, including frame-label distributions and timestamps.
 
@@ -31,10 +31,8 @@ The source report states random samples of 150 from each candidate frame and see
 
 The journal workbench is 71 disagreements + 385 positives + 150 + 150 − 8 overlapping sampled IDs = 748. The conference workbench is 55 + 531 + 150 + 150 − 12 = 874. The public worklist export recovers these exact selected IDs; it does not resample them.
 
-## Completed quality assurance
+## Interpretation and current status
 
-Four duplicate journal indices and one insufficient journal abstract leave 287 classifiable unique journal negative-sample records; conference records remain 288. Final review identified 2 and 4 eligible reports, respectively. These observed records are retained in the identified report lists.
+The reference-coding snapshot identifies the observed eligible and non-eligible sampled records. Analysis must first apply record-identity and abstract-information exclusions, then calculate sample NPV within retained sampled records. This evaluates the analyzed targeted samples, not the complete negative pool. No whole-corpus sensitivity or sampling-weighted primary count is inferred.
 
-Sample negative predictive values are 285/287 (99.30%) and 284/288 (98.61%). Their intervals are provided in [Table S6](../tables/Table_S6_verification_intervals.md). They describe the targeted samples; they do not establish the sensitivity or NPV of the entire negative pool. No sampling-weighted adjustment of the primary report counts is applied.
-
-The resulting dataset is an observed, verified-where-reviewed inventory with explicit unreviewed model-negative statuses. It is not a design-unbiased estimate of all RCT reports. Adding an observed eligible record corrects that record's classification; it does not imply extrapolation to unobserved records.
+The previous upstream-flag cleaning retained 287 journal and 288 conference sampled source records. These are snapshot counts, not proof that the full journal inventory has been completely deduplicated. Open identity issues and the final-release hold are recorded in [Data quality status](DATA_QUALITY_STATUS.md). These targeted candidate-pool definitions must not be described as two different model-specific negative pools.
