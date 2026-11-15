@@ -1,21 +1,12 @@
-# Frozen figures
+# Manuscript figures
 
-Figures 1–3 retain the manuscript panel layouts. PNG and PDF files are paired with their numerical source data under `source_data/`. These are descriptive report-level figures, not distinct-trial counts.
+These exports correspond to the final manuscript. Each figure is provided as PNG, PDF and editable SVG.
 
-## Supplementary Figure S1: analytical workflow
+|Figure|Content|Numerical source|
+|---|---|---|
+|[1](Figure_1.pdf)|Data preparation, screening and human verification|`source_data/Figure_1.json`|
+|[2](Figure_2.pdf)|Journal distribution and concentration|`source_data/Figure_2.json`|
+|[3](Figure_3.pdf)|Annual RCT rates in both corpora|`source_data/Figure_3.json`|
+|[4](Figure_4.pdf)|Confirmed conference–journal linkage and publication intervals|`source_data/Figure_4.json`|
 
-[PNG](Figure_S1.png), [PDF](Figure_S1.pdf) and [editable SVG](Figure_S1.svg) show the final analytical data flow. [Workflow documentation and caption](../docs/WORKFLOW.md) give definitions and reporting references. Counts are derived from the unchanged frozen `data/flow_counts.json`; the existing Figures 1–3 are unchanged.
-
-To rebuild the count source with standard-library Python:
-
-```bash
-python3 scripts/build_workflow_data.py
-```
-
-Optional figure rendering uses D3 and Playwright (`npm install d3 playwright`, plus a Playwright Chromium browser or `CHROME_PATH` pointing to an existing Chrome executable):
-
-```bash
-node scripts/render_workflow.mjs
-```
-
-The figure's rendering dependencies are separate from numerical reproduction and its automated checks.
+Titles and notes are recorded in `config/manuscript_items.json`. The numerical verifier checks source data against the frozen records and linkage decisions.

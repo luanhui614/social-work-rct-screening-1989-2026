@@ -1,10 +1,8 @@
-# Frozen linkage results
+# Conference–journal linkage
 
-|Outcome|Conference reports|
-|---|---|
-|SAME|90|
-|RELATED_ONLY|99|
-|INDETERMINATE|9|
-|NOT_IDENTIFIED|361|
+|Conference subset|Reports|Confirmed same-trial outcome article|Without a confirmed same-trial outcome article|
+|---|---|---|---|
+|2005–2026|559|90|469|
+|2005–2021|423|79|344|
 
-Nine indeterminate identities are retained as a linkage outcome; missing matches do not establish non-publication.
+The 115 SAME pairs involve 90 conference reports and 73 distinct journal articles. For linked reports, median article year minus conference year is 0; 24 articles precede the conference report, 28 are in the same year and 38 follow it.

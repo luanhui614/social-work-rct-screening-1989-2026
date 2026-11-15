@@ -1,20 +1,9 @@
-# Bibliographic cleaning and frozen status
+# Bibliographic cleaning
 
-The known source-identity and reference-label conflicts have been resolved in version 2.0.0. The journal source extract contained 65,290 records. Its 872 original duplicate flags were supplemented by 614 corroborated duplicate indices, and one insufficient abstract was excluded, leaving 63,803 analysis records. Conference cleaning removed 21 source-designated duplicates from 23,793 abstracts, leaving 23,772.
+Journal cleaning combined 872 source-designated duplicate flags with 614 additional duplicate indices corroborated by bibliographic comparisons. One record with insufficient abstract information was excluded. Conference cleaning excluded 21 duplicate indices. Final denominators are 63,803 journal records and 23,772 conference records.
 
-Title comparisons were supplemented by substantial-abstract comparisons to identify truncated subtitles and spelling variants. Across 662 candidate comparisons, 614 supported consolidation and 48 were retained. Candidate comparisons overlap: their union formed 587 merged article groups containing 614 excess indices. Distinct registered publication occurrences, repeated catalogue notices and separate book reviews were retained. Short generic descriptions without reviewer or publication coordinates did not justify merger; these records were conservatively retained rather than presumed duplicates. Matching abstracts alone did not merge unrelated titles.
+Title and substantial-abstract comparisons generated 662 candidate comparisons. Of these, 614 supported consolidation and 48 supported retention. Overlapping comparisons formed 587 merged publication groups containing 614 excess indices. Distinct registered publication occurrences, separate book reviews and recurring notices were retained. Shared titles or abstracts alone did not establish duplicate publication identity.
 
-DOI registration metadata, when available and matching the article title, corroborated publication identity and year. Print year was preferred to an issued year; source years remain traceable. The decision register includes DOI URLs and publication coordinates. This operational reconciliation is not a claim that every source metadata field was independently verified externally.
+DOI registration metadata corroborated publication identity and year when the registered title matched the article. Verified print year was preferred to issued year. Final reference classifications were applied within corroborated same-article groups. Source fields, retained IDs, exclusion reasons and final years are preserved in the released records.
 
-## Final author decisions
-
-|Source IDs|Article classification|Cleaning action|
-|---|---|---|
-|25098 / 73534|INDIVIDUAL|One article retained|
-|33736 / 82759|INDIVIDUAL|One article retained; allocation type reconciled|
-|34120 / 82763|OTHER|One non-RCT article retained in the denominator|
-|82865 / 122194|INDIVIDUAL|Author confirmed same article; one article retained|
-
-The final journal numerator is 384, comprising 351 individual and 33 cluster reports. The conference numerator is 559. No pending human reference-category conflict remains. Linkage preserves nine indeterminate trial identities as an outcome category; it does not force them into not-published or RCT-eligibility uncertainty.
-
-See [source-to-analysis mapping](../data/source_to_analysis_mapping.jsonl.gz), [duplicate mapping](../data/duplicate_article_mapping.json), [candidate decisions](../data/bibliographic_candidate_decisions.json), [year corrections](../data/year_corrections.json) and the [complete count chain](COUNT_FLOW.md). The current output tables and figures supersede earlier releases; historical tags remain unchanged.
+The machine-readable audit consists of the [source-to-analysis mapping](../data/source_to_analysis_mapping.jsonl.gz), [duplicate article mapping](../data/duplicate_article_mapping.json), [bibliographic decisions](../data/bibliographic_candidate_decisions.json), [year corrections](../data/year_corrections.json), and [final author decisions](../data/author_adjudications.json).

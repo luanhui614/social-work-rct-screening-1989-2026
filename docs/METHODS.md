@@ -1,48 +1,29 @@
 # Study methods
 
-The [analytical workflow](WORKFLOW.md) and [Figure S1](../figures/Figure_S1.pdf) summarize data preparation, model-result grouping, human verification, final eligibility and analysis. This describes the construction of the final analytical datasets; original model calls and source IDs remain traceable.
+## Scope and eligibility
 
-## 1. Design, scope and eligibility criteria
+This abstract-based scientometric study analyzes 88 social work journals (1989–2025) and SSWR conference abstracts (2005–2026). Journal and conference records are analyzed separately. The same five eligibility conditions and seven category labels govern model screening and human verification; INDIVIDUAL and CLUSTER qualify as RCT reports. See the [codebook](CODEBOOK.md).
 
-This abstract-based scientometric study analyzes the journal and conference collections separately. Model screening and human coding use the same substantive eligibility criteria and category labels. Brian's five RCT inclusion criteria and seven categories are retained in the [codebook](CODEBOOK.md). INDIVIDUAL and CLUSTER are the eligible RCT classes. The four manuscript research questions remain the basis of analysis.
+## Data preparation
 
-## 2. Source collections
+Duplicate publication indices were consolidated using source flags and bibliographic comparisons of titles, abstracts, author information and DOI registration metadata. Within corroborated duplicate groups, retention priority was verification-set membership, abstract completeness, a matching registered DOI, and source ID. Model classifications and final categories were not retention criteria. Distinct publication occurrences were retained. Verified print year was preferred; otherwise the issued year was used. Source IDs, original fields and analysis mappings remain traceable.
 
-The screening extracts contain 65,290 journal records from 88 social work journals (1989–2025) and 23,793 SSWR conference abstracts (2005–2026). Source variables and extract fingerprints are documented in [Data sources](DATA_SOURCES.md). Journal indexing for 2024–2025 is incomplete.
+Excluding 1,486 duplicate journal indices and one insufficient journal abstract left 63,803 eligible journal records. Excluding 21 duplicate conference indices left 23,772 eligible conference records. Non-RCT records remain in the rate denominators. The [count flow](COUNT_FLOW.md) reports each stage.
 
-## 3. Data cleaning and analysis denominators
+## Screening and human verification
 
-Source-flag and corroborated bibliographic deduplication excludes 1,486 journal indices and 21 conference indices. Exclusion of one insufficient journal abstract leaves 63,803 eligible journal records and 23,772 conference abstracts. Distinct publication occurrences and unsupported duplicate candidates are retained. Source-to-analysis mappings, exclusion reasons and bibliographic field corrections are preserved. Non-RCT classifications remain in the all-record denominators.
+Two local language models independently classified each title and abstract using the same codebook. Both models calling INDIVIDUAL or CLUSTER defined concordant positivity; exactly one RCT call defined a trial/non-trial disagreement; neither model calling an RCT defined concordant negativity. A difference confined to individual versus cluster randomization remained a concordant-positive RCT judgment.
 
-## 4. Dual-model screening results and grouping
+All concordant positives and disagreements underwent human review. Targeted samples were selected from concordant negatives using score-based and keyword-based candidate pools. Records selected through both pools were reviewed once. Human coding was organized by collection; disputed cases were resolved by author adjudication. Final human classifications determined reviewed eligibility. Unreviewed concordant negatives remained excluded. [Sampling details](NEGATIVE_AUDIT.md) specify candidate-pool definitions and sample sizes.
 
-Two locally hosted language models each classified source titles and abstracts into one of seven categories using the written eligibility criteria. The classifications are retained and joined to the clean records. Both models making an RCT call defines concordant positivity, including disagreement only about individual versus cluster randomization. Exactly one RCT call defines a trial/non-trial disagreement; neither model making an RCT call defines concordant negativity. Separate classifications are not assumed to have statistically independent errors. Exact documented prompt text and settings are linked in [Model execution](MODEL_EXECUTION.md).
+## Screening performance and descriptive analysis
 
-## 5. Human verification and final reference decisions
+Final human classifications provide the reference for performance evaluation. Positive predictive value is the proportion of concordant positives confirmed as RCTs. Disagreement yield is the proportion of model disagreements confirmed as RCTs. Sample negative predictive value is the proportion of reviewed concordant-negative records confirmed as non-RCTs. The latter describes the targeted samples. Agreement between model RCT judgments is summarized with Cohen's kappa.
 
+Descriptive analyses report identified RCT reports per 1,000 eligible records, with Wilson 95% intervals, annual and period rates, journal distributions and conference presentation formats. The intervals describe identified-report proportions. Final totals use observed eligible reports without sampling-weighted expansion. The targeted negative samples do not estimate sensitivity or NPV for the complete negative pool.
 
-Records both models classified as RCTs underwent human verification. Records classified as RCTs by only one model also underwent review. Within records both models classified as non-RCTs, samples were selected from two overlapping candidate pools defined by trial-label scores and allocation-related keywords. Selected records appearing through both pools were reviewed once. Coding used the same substantive eligibility criteria and category labels; disputed cases were resolved by author adjudication.
+## Conference–journal linkage
 
-Coding was organized by collection; disputed cases were resolved by author adjudication. Independent double-human coding of every record is not claimed. Final human classifications provide the reference for screening-performance evaluation. Reviewed eligible records are included and reviewed false positives excluded. Unreviewed records both models classified as non-RCTs remain excluded.
+All 559 final conference RCT reports were searched against the complete 63,803-record eligible journal corpus. Title and abstract terms and author names identified candidate pairs. Trial identity was assessed using population, setting, intervention, comparator, sample and timing. A SAME link required an outcome article from the same randomized trial. RELATED denotes an ancillary or explicitly programme-related paper; shared topic or authorship alone does not establish the same trial. Different studies were distinguished from these relationships. Full texts and project materials supplemented trial-identity checks; RCT screening eligibility remained abstract-based.
 
-The original verification workbench contains 1,622 source IDs. Cleaning removes nine duplicate journal source IDs and one insufficient abstract, leaving 1,612 classifiable records (738 journal and 874 conference records). An additional author-adjudicated journal article outside the workbench is SECONDARY; it is not added to designed-sample performance denominators. Final author decisions and identity consolidation are documented in [quality status](DATA_QUALITY_STATUS.md) and the [count chain](COUNT_FLOW.md).
-
-## 6. Screening-performance evaluation
-
-
-For records both models classified as RCTs, PPV is the proportion confirmed as RCTs by human verification. For model disagreements, report the number and proportion confirmed as RCTs. For sampled records both models classified as non-RCTs, sample NPV is the proportion confirmed as non-RCTs within the analyzed sample. These targeted samples do not estimate sensitivity or NPV for the entire negative pool. No sampling-weighted primary RCT total is inferred. Agreement between the two models is evaluated separately from agreement with final reference coding.
-
-## 7. Descriptive analysis and frozen version
-
-
-Descriptive results use RCT reports per 1,000 eligible records, with 95% Wilson score intervals, annual and period summaries, journal distributions and conference formats. Source flags and corroborated bibliographic identities determine exclusions; all original IDs and model calls remain traceable. Different publication occurrences and unsupported duplicate candidates are retained under the documented cleaning rules. The frozen journal total is 384/63,803 and the conference total is 559/23,772. Wilson intervals describe identified-report proportions, not screening-error uncertainty. Numerical results are reproducible from the frozen records and reference classifications.
-
-## 8. Conference–journal record linkage
-
-
-The 559 conference reports classified as eligible in the frozen data are compared with all 63,803 eligible journal records, irrespective of journal model classifications. Title and abstract terms and author names identify and assess candidate pairs. Selected full texts and project materials were consulted for unresolved identity checks. This concerns trial identity in linkage, not a change from abstract-based screening eligibility to full-text screening.
-
-Pairs distinguish same-trial outcome articles, related papers, different studies and indeterminate identity. The released assessment file also retains NOT_ELIGIBLE_OUTCOME when an article is not an eligible outcome report. A conference report is summarized as SAME if any pair is SAME; otherwise INDETERMINATE if identity remains unresolved; otherwise RELATED_ONLY if a related paper is identified; otherwise NOT_IDENTIFIED. SAME and RELATED_ONLY remain separate outcomes. A not-identified match does not establish non-publication, because the search covers social work journals only.
-
-One conference report may link to several articles, and the same trial may have multiple conference reports. The time interval is article year minus conference year, using the earliest identified same-trial article. Negative values indicate an article preceding the conference. Neither record IDs nor multiple presentations are silently treated as distinct trials. Current pair decisions incorporate recorded author adjudications but are not represented as an independently double-human-coded linkage gold standard.
-
+The primary outcome requires a confirmed same-trial outcome article. Reports without a confirmed SAME link remain in the denominator. Detailed pair-assessment codes are retained for audit in the released data. Multiple articles can link to one report, and repeated conference presentations remain separate reports. Publication interval is article year minus conference year, using the earliest same-trial outcome article. The subset presented through 2021 permits at least four years of subsequent journal coverage through 2025. The search concerns the source social work journals; absence of a confirmed link does not establish non-publication.

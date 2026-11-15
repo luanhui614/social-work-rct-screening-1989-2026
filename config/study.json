@@ -1,5 +1,5 @@
 {
-  "study_version": "2.0.0",
+  "study_version": "2.1.0",
   "unit": "report",
   "journal_count": 88,
   "models": {
@@ -14,14 +14,7 @@
   "top_logprobs": 5,
   "fine_tuning": false,
   "few_shot_examples": false,
-  "original_execution_dates": null,
-  "input_truncation_policy": null,
-  "retry_implementation": null,
-  "original_sampling_generator_available": false,
   "sampling_seed_as_reported": 20260905,
-  "original_rng": null,
-  "draw_independence": null,
-  "without_replacement_implementation": null,
   "boundary_score_threshold": 0.02,
   "negative_audit_role": "targeted quality assurance; no sampling-weighted primary total",
   "sampling_frames": {
@@ -69,5 +62,7 @@
       "NOT_IDENTIFIED": 361
     },
     "linkage_pair_n": 327
-  }
+  },
+  "release_date": "2026-11-15",
+  "release_url": "https://github.com/luanhui614/social-work-rct-screening-1989-2026/releases/tag/v2.1.0"
 }

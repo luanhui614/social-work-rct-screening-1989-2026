@@ -63,11 +63,18 @@ def main():
     if args.generated:
         for n,x in a.items():assert same(x,load(P/'results'/(n+'.json'))),n
         assert load(P/'results/linkage_record_outcomes.json')==links
-        assert load(P/'figures/source_data/Figure_1.json')==a['annual']
+        assert load(P/'figures/source_data/Figure_1.json')==load(P/'data/flow_counts.json')
         assert load(P/'figures/source_data/Figure_2.json')==a['journals']
-        workflow=load(P/'figures/source_data/Figure_S1.json');flow=load(P/'data/flow_counts.json')
-        assert workflow['journal']==flow['swrd'] and workflow['conference']==flow['sswr']
-        assert workflow['clean_verification_n']==1612 and workflow['original_worklist_n']==1622
+        assert same(load(P/'figures/source_data/Figure_3.json'),a['annual'])
+        from reproduce import linkage_summary
+        linkage=linkage_summary(links,pairs)
+        assert same(load(P/'figures/source_data/Figure_4.json'),linkage)
+        assert (linkage['subsets']['all']['confirmed_same_trial'],linkage['subsets']['all']['no_confirmed_same_trial'])==(90,469)
+        assert (linkage['subsets']['through_2021']['confirmed_same_trial'],linkage['subsets']['through_2021']['no_confirmed_same_trial'])==(79,344)
+        assert (linkage['before'],linkage['same_year'],linkage['after'],linkage['median_signed_lag'])==(24,28,38,0)
+        worklist=load(P/'results/verification_membership.json')
+        assert len(worklist)==1622
+        assert {(r['corpus'],r['record_id']) for r in worklist}=={(r['corpus'],r['record_id']) for r in refs}
     if args.snapshot:
         lines=(P/'MANIFEST.sha256').read_text().splitlines();expected={}
         for line in lines:

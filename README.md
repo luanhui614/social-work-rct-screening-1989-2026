@@ -1,40 +1,34 @@
 # Social work RCT screening and human verification, 1989–2026
 
-Frozen research materials for **What Social Work Publishes**, version **2.0.1**, 13 November 2026. The repository provides the screening codebook, documented model prompt and settings, screening and linkage analysis code, final reference classifications, bibliographic cleaning decisions and minimized record-level results. Source abstracts and full-text PDFs are not redistributed.
+Research materials accompanying **What Social Work Publishes**. This manuscript-aligned release contains the final codebook, model prompt and settings, reference classifications, bibliographic cleaning records, analysis code, numerical results and manuscript tables and figures.
 
-## Analytical workflow
+**Fixed version: [v2.1.0](https://github.com/luanhui614/social-work-rct-screening-1989-2026/releases/tag/v2.1.0), 15 November 2026.** Analytical data are frozen as `screening-human-adjudication-final-2026-11-13-v6`.
 
-[Workflow and reporting basis](docs/WORKFLOW.md) follow the final data-construction sequence: scope and source records → cleaning and denominators → retained dual-model classifications → human verification and adjudication → final analytical datasets → descriptive and linkage analyses. [Figure S1](figures/Figure_S1.pdf) shows the complete flow and counts. Existing Figures 1–3 retain their result-focused roles.
+## Study workflow
 
-## Final count chain
+Source collections → bibliographic cleaning → dual-model screening groups → human verification and adjudication → final RCT reports → descriptive and conference–journal linkage analyses.
 
-|Stage|Journal records|Conference abstracts|
+|Stage|Journal records|Conference records|
 |---|---:|---:|
-|Original screened source records|65,290|23,793|
-|Source-designated duplicate indices removed|872|21|
-|Additional corroborated duplicate indices removed|614|0|
-|Insufficient abstract excluded|1|0|
-|Clean analysis denominator|63,803|23,772|
-|Final identified RCT reports|384|559|
+|Source records|65,290|23,793|
+|Duplicate indices excluded|1,486|21|
+|Insufficient abstract information excluded|1|0|
+|Eligible records|63,803|23,772|
+|Human verification set|738|874|
+|Final RCT reports|384|559|
 
-Journal RCTs comprise 351 INDIVIDUAL and 33 CLUSTER reports; conference RCTs comprise 474 and 85. These are report counts. The complete [count chain](docs/COUNT_FLOW.md) distinguishes source-ID workload, cleaned verification denominators and final eligibility. [Freeze status](data/freeze_status.json) and [cleaning decisions](docs/DATA_QUALITY_STATUS.md) document the final analysis version. Earlier tagged releases are superseded historical snapshots.
-
-## Screening and verification
-
-Two language models separately classified titles and abstracts under the same eligibility criteria. Records both models classified as RCTs and those classified as RCTs by only one model underwent verification. Targeted samples of records both models classified as non-RCTs were also reviewed. Final human decisions govern reviewed eligibility. Unreviewed concordant-negative records remain excluded.
-
-The original verification worklist contained 1,622 source IDs. Removing nine duplicate journal indices and one insufficient abstract left 1,612 classifiable records: 738 journal records and 874 conference abstracts. One additional author-adjudicated journal article outside this worklist is SECONDARY; it does not enter designed-sample performance denominators. Targeted negative samples do not establish whole-pool sensitivity or NPV. No sampling-weighted primary total is inferred.
+All records both models classified as RCTs and all trial/non-trial disagreements underwent human review. Targeted samples of records both models classified as non-RCTs were also reviewed. Final human classifications determined reviewed eligibility; unreviewed concordant negatives remained excluded. [Methods](docs/METHODS.md) and the [count flow](docs/COUNT_FLOW.md) define each analysis group and denominator.
 
 ## Materials
 
-- [Codebook](docs/CODEBOOK.md), [methods](docs/METHODS.md), [reference decisions](docs/REFERENCE_REVIEW_PROTOCOL.md).
-- [Verbatim v2 prompt](docs/MODEL_PROMPT_v2.md), [documented execution](docs/MODEL_EXECUTION.md), [negative sampling](docs/NEGATIVE_AUDIT.md).
-- [Data dictionary](docs/DATA_DICTIONARY.md), [data sources](docs/DATA_SOURCES.md), [materials index](docs/RESEARCH_MATERIALS.md).
-- [Record-level data](data/README.md), [statistical results](results/SUMMARY.md), [tables](tables/README.md), [figures](figures/README.md).
+- **Methods and criteria:** [study methods](docs/METHODS.md), [codebook](docs/CODEBOOK.md), [negative-sample selection](docs/NEGATIVE_AUDIT.md), [bibliographic cleaning](docs/DATA_QUALITY_STATUS.md).
+- **Model materials:** [verbatim prompt](docs/MODEL_PROMPT_v2.md), [settings](docs/MODEL_EXECUTION.md), [machine-readable configuration](config/study.json).
+- **Data:** [file inventory](data/README.md), [dictionary](docs/DATA_DICTIONARY.md), [source attribution](docs/DATA_SOURCES.md).
+- **Outputs:** [summary](results/SUMMARY.md), [linkage](results/linkage.md), [manuscript tables](tables/README.md), [manuscript figures](figures/README.md).
 
-## Reproduce
+## Reproduce the numerical results
 
-Python 3.9 or newer; the numerical analysis uses the standard library.
+Python 3.9 or later; numerical reproduction uses the standard library. The scripts read the retained model classifications and final reference classifications included in this release.
 
 ```bash
 python3 scripts/verify.py --snapshot
@@ -43,10 +37,8 @@ python3 scripts/export_review_worklist.py
 python3 scripts/verify.py --generated
 ```
 
-Compressed JSONL files are read directly by the scripts. Integrity checks compare source counts, cleaning flags, source-to-analysis mappings, author decisions, screening-group totals, human verification denominators, yearly and journal distributions, linkage aggregation and file hashes. Reproduction uses retained model classifications; the original inference runner and sampling generator were not recovered. Recorded settings are not substituted for missing execution logs.
+Checks cover source-to-analysis mappings, cleaning exclusions, screening groups, final reference classifications, subgroup totals, linkage aggregation, figure data and file hashes. Numerical outputs are regenerated from the released records. Figure exports are supplied as PNG, PDF and editable SVG, with their numerical source data.
 
-## Attribution and rights
+## Sources and citation
 
-Bibliographic source data and basic variables originate in the [Social Work Meta-Data Project](https://github.com/beperron/SocialWork-MetaData). Cite the study manuscript and source database publications listed in [Data sources](docs/DATA_SOURCES.md). Do not substitute the upstream scientific-research core for this study's screening extract.
-
-Third-party materials retain their own terms. No study-code license or repository DOI has been assigned. Unpublished manuscript files, full abstracts, PDFs, personal reviewer returns and internal correspondence are not included.
+Bibliographic data and basic variables originate in the [Social Work Meta-Data Project](https://github.com/beperron/SocialWork-MetaData). Source publications are listed in [Data sources](docs/DATA_SOURCES.md). Cite the study manuscript and this fixed release when using these research materials; [CITATION.cff](CITATION.cff) records the version-specific URL.

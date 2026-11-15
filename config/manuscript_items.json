@@ -1,0 +1,91 @@
+{
+  "Table 1": {
+    "title": "Classification Categories, Definitions, and Yield in Each Corpus",
+    "note": "Note. Counts are the classifications of the first screener and are shown to describe the composition of each corpus before data cleaning; trial counts reported in the text follow human verification and adjudication (384 journal reports, 559 conference reports). Percentages are of all records screened in that corpus and may not sum to 100 because of rounding."
+  },
+  "Table 2": {
+    "title": "Screening Performance Against Hand-Coded Reference Standards",
+    "note": "Note. Final human classifications provide the reference for these verification results. PPV = positive predictive value; NPV = negative predictive value. RCT yield is the proportion of model-disagreement records confirmed as eligible. All records classified as trials by both models and all trial/non-trial disagreements were verified. Records classified as non-trials by both models were sampled from two targeted candidate pools; sample NPV does not estimate NPV or sensitivity for the entire negative pool."
+  },
+  "Table 3": {
+    "title": "Trials and Rate per 1,000 Records by Period, Both Corpora",
+    "note": "Note. Rates are eligible RCT reports per 1,000 eligible records in the period. CI = Wilson score interval. The intervals do not account for screening or linkage error. Journal indexing for 2024–2025 is incomplete. The two corpora were analyzed separately and are shown together for comparison only."
+  },
+  "Figure 1": {
+    "title": "Data Preparation, Screening, and Human Verification",
+    "note": "Note. J = journal records; C = conference records. Screening groups refer to retained analysis records. The verification set contained 1,612 records (738 journal; 874 conference). All concordant positives and model disagreements were reviewed; concordant negatives were sampled from targeted candidate pools. Disputed cases underwent author adjudication. Sample results do not establish sensitivity or NPV for the complete negative pools."
+  },
+  "Figure 2": {
+    "title": "Distribution of Trials Across Social Work Journals",
+    "note": "Note. Panel A shows the 15 journals publishing the most trials; values are the number of trials with the journal's own rate per 1,000 records in parentheses. Panel B shows the cumulative percentage of all 384 RCT reports across the 46 journals that published at least one."
+  },
+  "Figure 3": {
+    "title": "Rate of Randomized Controlled Trials per 1,000 Records by Year, Both Corpora",
+    "note": "Note. Panel A shows social work journal articles (1989–2025); Panel B shows SSWR conference abstracts (2005–2026). Note the different vertical scales. Bars are annual rates; the line is a centered three-year moving average. The two lightest bars in Panel A are years for which journal indexing remains incomplete. The corpora were analyzed separately and are displayed in one figure for comparison only."
+  },
+  "Figure 4": {
+    "title": "Publication Outcome of Conference Trials in the Social Work Journal Literature",
+    "note": "Note. Panel A shows confirmed same-trial outcome articles and reports without a confirmed same-trial outcome article for all 559 conference RCT reports and for the 423 presented through 2021, allowing at least four years of subsequent journal coverage. Panel B shows the interval from conference presentation to the earliest identified same-trial journal article for the 90 linked conference reports; negative values indicate that the article appeared before the presentation. Absence of a confirmed match does not establish non-publication outside or within the social work journal literature."
+  },
+  "category_rows": [
+    {
+      "name": "Individually randomized trial",
+      "definition": "All five eligibility conditions met; individuals, families, couples, or dyads randomized"
+    },
+    {
+      "name": "Cluster randomized trial",
+      "definition": "All five conditions met; intact groups randomized (schools, clinics, agencies, communities)"
+    },
+    {
+      "name": "Quasi-experimental",
+      "definition": "Intervention delivered and compared, but allocation not random or never stated; includes single-arm designs"
+    },
+    {
+      "name": "Secondary analysis",
+      "definition": "Analysis of data from a trial conducted and reported elsewhere (moderator, mediator, subgroup, follow-up)"
+    },
+    {
+      "name": "Protocol or design",
+      "definition": "Protocol, registration, design, or baseline paper with no outcome results"
+    },
+    {
+      "name": "Review",
+      "definition": "Systematic review, meta-analysis, or scoping review, including reviews of trials"
+    },
+    {
+      "name": "Other",
+      "definition": "Observational, qualitative, theoretical, commentary, methods, instrument validation, and vignette or analog experiments"
+    }
+  ],
+  "category_labels": [
+    "INDIVIDUAL",
+    "CLUSTER",
+    "QUASI",
+    "SECONDARY",
+    "PROTOCOL",
+    "REVIEW",
+    "OTHER"
+  ],
+  "table_headers": {
+    "1": [
+      "Category",
+      "Definition",
+      "Journal articles n (%)",
+      "Conference abstracts n (%)"
+    ],
+    "2": [
+      "Corpus and screening group",
+      "Reviewed",
+      "RCT",
+      "Non-RCT",
+      "Verification result"
+    ],
+    "3": [
+      "Period",
+      "Records",
+      "Trials",
+      "Per 1,000",
+      "95% CI"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 # RCT screening codebook
 
-These are the eligibility criteria and seven substantive categories stated in the current manuscript, grounded in the supplied original manuscript and written screening codebook. The same substantive criteria govern model screening and final human verification. The [documented v2 prompt](MODEL_PROMPT_v2.md) is preserved verbatim rather than rewritten retrospectively. Record-level decisions incorporate the latest author classifications. Known identity and label conflicts are resolved in the frozen dataset; see [Data quality status](DATA_QUALITY_STATUS.md).
+Model screening and human verification use the same five eligibility conditions and seven category labels. The definitions below correspond to the final manuscript.
 
 A record qualifies as an RCT report only when its abstract supports all five conditions:
 
@@ -27,9 +27,3 @@ If an abstract describes an intervention evaluation without stating random alloc
 Random assignment to hypothetical scenarios, vignettes or case descriptions that elicit respondent judgments does not constitute an intervention delivered to participants and is excluded as OTHER. Assess the study actually reported, not merely a trial mentioned in the text. Data type alone does not determine eligibility.
 
 A later measurement occasion does not itself make a report SECONDARY. The original codebook clarification permits a trial team reporting its own later-timepoint, between-arm outcomes to qualify. A protocol or baseline description without outcome findings does not qualify, even if recruitment and randomization have occurred. Null findings can qualify; statistical significance is not an inclusion condition.
-
-UNCERTAIN was an interim review status, not an eighth substantive category. Retained classifiable source records have substantive final labels. The author-designated insufficient abstract is a cleaning exclusion, not a confirmed non-RCT.
-
-## Authority and provenance
-
-Criteria and category definitions follow the current manuscript's Eligibility Criteria and Table 1 and the supplied written codebook. The full-corpus run configuration is documented separately; an earlier pilot configuration is not substituted for the documented final model setup. No new human decisions are inferred from this explanatory document. Source-document fingerprints are in [provenance](../materials/source_document_provenance.json).

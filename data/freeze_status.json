@@ -19,9 +19,5 @@
   "source_abstracts_redistributed": false,
   "interval_scope": "Wilson intervals describe identified-report proportions, not screening-error or overall sensitivity uncertainty.",
   "linkage_indeterminate_identity_reports": 9,
-  "python_version": "3.12.14",
-  "inputs": {
-    "archive/github_release_before_2026-11-13/data/record_level_results.jsonl": "490b72142935a1cb4df20c1fd680202b9e50b08d89880b099d1e9979827d7068"
-  },
-  "outputs_certification": "Operational cleaning, recorded human decisions and internal arithmetic reconciled; not a claim of exhaustive external bibliographic or full-text eligibility validation."
+  "python_version": "3.12.14"
 }

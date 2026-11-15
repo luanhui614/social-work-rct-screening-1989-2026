@@ -1,4 +1,4 @@
-"""Retained category decisions and descriptive snapshot statistics; identity QC is external."""
+"""Frozen category decisions and descriptive statistics."""
 import gzip
 import json
 import math

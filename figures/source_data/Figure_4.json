@@ -1,0 +1,41 @@
+{
+  "subsets": {
+    "all": {
+      "n": 559,
+      "confirmed_same_trial": 90,
+      "no_confirmed_same_trial": 469,
+      "percent_confirmed": 16.100178890876567
+    },
+    "through_2021": {
+      "n": 423,
+      "confirmed_same_trial": 79,
+      "no_confirmed_same_trial": 344,
+      "percent_confirmed": 18.67612293144208
+    }
+  },
+  "assessed_pairs": 327,
+  "same_trial_pairs": 115,
+  "distinct_same_trial_articles": 73,
+  "signed_lags": {
+    "-11": 1,
+    "-9": 1,
+    "-8": 1,
+    "-7": 1,
+    "-5": 3,
+    "-4": 2,
+    "-2": 8,
+    "-1": 7,
+    "0": 28,
+    "1": 15,
+    "2": 12,
+    "3": 4,
+    "4": 3,
+    "5": 3,
+    "7": 1
+  },
+  "median_signed_lag": 0.0,
+  "before": 24,
+  "same_year": 28,
+  "after": 38,
+  "absolute_lag_le_2": 70
+}

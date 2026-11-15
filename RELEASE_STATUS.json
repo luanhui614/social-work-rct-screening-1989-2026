@@ -1,16 +1,11 @@
 {
-  "schema_version": 2,
-  "updated": "2026-11-13",
-  "documentation_version": "2.0.1",
+  "schema_version": 3,
+  "updated": "2026-11-15",
+  "documentation_version": "2.1.0",
   "analysis_status": "frozen",
   "final_results_available": true,
   "freeze_version": "screening-human-adjudication-final-2026-11-13-v6",
-  "known_issues_file": "data/identity_qc_cases.json",
-  "original_inference_runner_recovered": false,
-  "original_sampling_generator_recovered": false,
-  "raw_abstracts_redistributed": false,
-  "new_license_assigned": false,
-  "repository_doi": null,
-  "historical_release_note": "v1.0.0 and v1.1.0 preserve superseded historical results; use the current frozen release.",
-  "documentation_update": "Analytical workflow and Supplementary Figure S1 added; frozen data and statistical results unchanged."
+  "manuscript_tables": 3,
+  "manuscript_figures": 4,
+  "release_scope": "Manuscript-aligned methods, final decisions, numerical results and analysis code"
 }

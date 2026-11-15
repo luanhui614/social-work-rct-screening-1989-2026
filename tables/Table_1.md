@@ -2,7 +2,7 @@
 
 Classification Categories, Definitions, and Yield in Each Corpus
 
-|Category|Definition|Journal articlesn (%)|Conference abstractsn (%)|
+|Category|Definition|Journal articles n (%)|Conference abstracts n (%)|
 |---|---|---|---|
 |Individually randomized trial|All five eligibility conditions met; individuals, families, couples, or dyads randomized|391 (0.6)|465 (2.0)|
 |Cluster randomized trial|All five conditions met; intact groups randomized (schools, clinics, agencies, communities)|50 (0.1)|106 (0.4)|
@@ -13,4 +13,4 @@ Classification Categories, Definitions, and Yield in Each Corpus
 |Other|Observational, qualitative, theoretical, commentary, methods, instrument validation, and vignette or analog experiments|59,234 (90.7)|19,598 (82.4)|
 |Total screened||65,290 (100)|23,793 (100)|
 
-Note. Counts describe model A classifications of the original screened source records, including duplicate indices. Final eligibility follows human verification and adjudication; 384 journal reports and 559 conference reports were included.
+Note. Counts are the classifications of the first screener and are shown to describe the composition of each corpus before data cleaning; trial counts reported in the text follow human verification and adjudication (384 journal reports, 559 conference reports). Percentages are of all records screened in that corpus and may not sum to 100 because of rounding.
